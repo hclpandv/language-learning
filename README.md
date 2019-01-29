@@ -7,7 +7,7 @@
 | First and Foremost      | The Most Important thing  | First and Foremost, we have to close the issues raised    |
 | time and time again   | Very often | We are repeating the same time and time again      |
 | loud and clear | Very Clear | We need our freedom,its loud and clear      | 
-| part and parcel | Text        | And more      |
+| part and parcel | Essential Components       | From all part and parcel of Englsh language from Shakespere to Lady gaga.  |
 | the nitty gritty | Text        | And more      |
 | hustle and bustle | Text        | And more      |
 | take it or leave it | Text        | And more      |
