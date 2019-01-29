@@ -4,7 +4,7 @@
 
 | Phrase      | Description | Use Case      |
 | :---        |    :----:   |          ---: |
-| First and Foremost      | Title       | Here's this   |
+| First and Foremost      | The Most Important thing  | First and Foremost, we have to close the issues raised    |
 | time and time again   | Text        | And more      |
 | loud and clear | Text        | And more      | 
 | part and parcel | Text        | And more      |
