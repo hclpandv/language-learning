@@ -8,14 +8,14 @@
 | time and time again   | Very often | We are repeating the same time and time again      |
 | loud and clear | Very Clear | We need our freedom,its loud and clear      | 
 | part and parcel | Essential Components       | From all part and parcel of Englsh language from Shakespere to Lady gaga.  |
-| the nitty gritty | Text        | And more      |
-| hustle and bustle | Text        | And more      |
-| take it or leave it | Text        | And more      |
-| rise and shine | Text        | And more      |
-| flesh and blood | Text        | And more      |
-| sink or swim | Text        | And more      |
-| sick and tired | Text        | And more      |
-| mumbo jumbo | Text        | And more      |
+| the nitty gritty |            |       |
+| hustle and bustle |           |         |
+| take it or leave it |           |           |
+| rise and shine |          |         |
+| flesh and blood |           |          |
+| sink or swim |            |         |
+| sick and tired |          |         |
+| mumbo jumbo |           |          |
 | culture vulture 
 | wine and dine
 | from rags to riches 
