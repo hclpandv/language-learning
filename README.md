@@ -1,5 +1,9 @@
 # english-language-learning
 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
 #### English Binomials and Trinomials
 
 | Phrase      | Description | Use Case      |
