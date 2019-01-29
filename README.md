@@ -3,7 +3,7 @@
 #### English Binomials and Trinomials
 
 | Phrase      | Description | Use Case      |
-| :---        |    :----:   |          ---: |
+| :---        |    :----:   | :---          |
 | First and Foremost      | The Most Important thing  | First and Foremost, we have to close the issues raised    |
 | time and time again   | Very often | We are repeating the same time and time again      |
 | loud and clear | Very Clear | We need our freedom,its loud and clear      | 
