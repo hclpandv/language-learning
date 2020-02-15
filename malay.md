@@ -18,9 +18,12 @@ Hi and Hello is common, use it... no fancy..
 
 `selamat = goood`  Pronounced as `sla-mat`
 
+`tanga = middle and hari = day`
+
 |   |    |   |
 | - |  - | - |
 |  Selamat Pagi      | Good morning !!  | `sla-mat pagi`         |
 | Selamat Tenga Hari | Good afternoon!! | `sla-mat t(a)nga-hari` |
-| Selamat Petang     | Good night!! | `sla-mat P(a)tang`         |
+| Selamat Petang     | Good evening!!   | `sla-mat P(a)tang`     |
+| Selamat Malam      | Good night!!     | `sla-mat M(a)lam`      |
 
