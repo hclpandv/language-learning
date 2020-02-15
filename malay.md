@@ -8,6 +8,8 @@ Hi and Hello is common, use it... no fancy..
 
 #### How are you ? | Meeting with someone
 
+| :---        |    :----:   | :---          |
 |  Apa Khabar ?     | How are you ? | `A Pe Ka Ba ?` pretened no H and R, e = short `a`    |
 | Baik, sihat .    | I am good, Healthy ! | `Ba ik, si hat`      |
+ 
  
