@@ -14,3 +14,13 @@ Hi and Hello is common, use it... no fancy..
 | Baik, sihat .    | I am good, Healthy ! | `Ba ik, si hat`      |
  
 
+#### Good Morning ? | Regular Greetings of the day !
+
+`selamat = goood`  Pronounced as `sla-mat`
+
+|   |    |   |
+| - |  - | - |
+|  Selamat Pagi      | Good morning !!  | `sla-mat pagi`         |
+| Selamat Tenga Hari | Good afternoon!! | `sla-mat t(a)nga-hari` |
+| Selamat Petang     | Good night!! | `sla-mat P(a)tang`         |
+
