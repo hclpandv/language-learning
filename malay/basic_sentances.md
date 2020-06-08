@@ -6,4 +6,4 @@
 | Dia  | He/She  | he smiles -->	Dia senyum |
 | Ini  | This | Ini basikal --> This is a bycycle |
 | Itu  | That | Itu bas --> That's a bus | 
-| mereka  | They | Mereka datang --> They Come / They are coming /  They came... (will get to it)| 
+| Mereka  | They | Mereka datang --> They Come / They are coming /  They came... (will get to it)| 
