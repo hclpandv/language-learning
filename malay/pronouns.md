@@ -12,7 +12,7 @@ Pronouns are also determined by age and gender.
 | Cik | Ms, also Maam.<br>Use to address female strangers, females you barely know, females same age or older, and most female adults.| |
 | Puan | Mrs<br>Use if you are certain, or if everyone else is addressing the person as “Puan”. | |
 | Kami | We<br>Used when the person you are talking to is not included | *Kami dari Malaysia.* We (are) from Malaysia.<br>
-| Kita | We, Us<br>Used when the person you are talking to is not included |  *Mari kita sama-sama cegah Covid-19.* Let us together prevent Covid-19 |
+| Kita | We, Us<br>Used when the person you are talking to is not included |  *Mari kita sama-sama cegah Covid-19.* <br> Let us together prevent Covid-19 |
 
 
 
