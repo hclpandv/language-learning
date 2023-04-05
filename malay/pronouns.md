@@ -19,6 +19,10 @@ Pronouns are also determined by age and gender.
 | Pronouns | English Eq  | Example |
 | --- | --- | --- |
 | Saya | I, me, my  | *Saya suka baca buku.* I like to read books. *Boleh tunjuk saya ?* Can show me ? *Ini pen saya.* This is my pen. |
+| Encik | Mr, Sir Use to address male strangers,
+males you barely know, males
+same age or older, and most
+male adults. |   |
 | Awak | You | Aw  ak memandu --> You drive |
 | Kami | We | Kami   menulis --> We write |
 | Dia  | He/She  | he   smiles -->	Dia senyum |
