@@ -9,11 +9,11 @@ Pronouns are also determined by age and gender.
 | --- | --- | --- |
 | Saya | I, me, my  | *Saya suka baca buku.* I like to read books.<br>*Boleh tunjuk saya ?* Can show me ? <br>*Ini pen saya.* This is my pen. |
 | Encik | Mr, Sir<br> Use to address male strangers, males you barely know, males same age or older, and most male adults. | *Minta maaf, Encik. Saya nak pergi KLCC ?*<br> Excuse me, Mr. I want to go to KLCC.  |
-| Cik | Ms, also Maam.<br>Use to address female strangers, females you barely know, females same age or older, and most female adults.| |
+| Cik | Ms, also Maam.<br>Use to address female strangers, females you barely know, <br>females same age or older, and most female adults.| |
 | Puan | Mrs<br>Use if you are certain, or if everyone else is addressing the person as “Puan”. | |
 | Kami | We<br>Used when the person you are talking to is not included | *Kami dari Malaysia.* We (are) from Malaysia.<br>
 | Kita | We, Us<br>Used when the person you are talking to is not included |  *Mari kita sama-sama cegah Covid-19.* <br> Let us together prevent Covid-19 |
-| Dia orang | They (wo log in hindi)<br>“Dia orang” is commonly used in conversation. Although in the dictionary “mereka” is referred to, but in reality, no one uses “mereka” in daily conversation. “Dia orang” is literally “They people” or “Them people”. | *Dia orang dah balik.* <br>They have gone back. |
+| Dia orang | They (wo log in hindi)<br>“Dia orang” is commonly used in conversation.<br> Although in the dictionary “mereka” is referred to, but in reality, no one uses “mereka” in daily conversation. “Dia orang” is literally “They people” or “Them people”. | *Dia orang dah balik.* <br>They have gone back. |
 
 
 
