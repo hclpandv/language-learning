@@ -8,7 +8,7 @@ Pronouns are also determined by age and gender.
 | Pronouns | English Eq  | Example |
 | --- | --- | --- |
 | Saya | I, me, my  | *Saya suka baca buku.* I like to read books.<br>*Boleh tunjuk saya ?* Can show me ? <br>*Ini pen saya.* This is my pen. |
-| Encik | Mr, Sir<br> Use to address male strangers, males you barely know, <br> males same age or older, and most male adults. | *Minta maaf, Encik. Saya nak pergi KLCC ?*<br> Excuse me, Mr. I want to go to KLCC.  |
+| Encik | Mr, Sir<br> Use to address male strangers, males you barely know, <br> males same age or older, and most male adults. | *Minta maaf, Encik. Saya nak pergi KLCC ? Jauh ke?*<br> Excuse me, Mr. I want to go to KLCC. far is it ?  |
 | Cik | Ms, also Maam.<br>Use to address female strangers, females you barely know, <br>females same age or older, and most female adults.| |
 | Puan | Mrs<br>Use if you are certain, <br> or if everyone else is addressing the person as “Puan”. | |
 | Kami | We<br>Used when the person you are talking to is not included | *Kami dari Malaysia.* We (are) from Malaysia.<br>
