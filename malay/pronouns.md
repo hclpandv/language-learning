@@ -18,12 +18,7 @@ Pronouns are also determined by age and gender.
 
 | Pronouns | English Eq  | Example |
 | --- | --- | --- |
-| Saya | I, me, my  | Saya suka baca buku.  
-I like to read books.  
-Boleh tunjuk saya ?  
-Can show me ?  
-Ini pen saya.  
-This is my pen.   |
+| Saya | I, me, my  | *Saya suka baca buku.* I like to read books. *Boleh tunjuk saya ?* Can show me ? *Ini pen saya.* This is my pen. |
 | Awak | You | Aw  ak memandu --> You drive |
 | Kami | We | Kami   menulis --> We write |
 | Dia  | He/She  | he   smiles -->	Dia senyum |
