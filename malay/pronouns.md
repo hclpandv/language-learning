@@ -20,6 +20,7 @@ Pronouns are also determined by age and gender.
 | --- | --- | --- |
 | Saya | I, me, my  | *Saya suka baca buku.* I like to read books.<br>*Boleh tunjuk saya ?* Can show me ? <br>*Ini pen saya.* This is my pen. |
 | Encik | Mr, Sir<br> Use to address male strangers, males you barely know, males same age or older, and most male adults. | *Minta maaf, Encik. Saya nak pergi KLCC ?*<br> Excuse me, Mr. I want to go to KLCC.  |
+| Cik | Ms, also Maam.<br>Use to address female strangers, females you barely know, females same age or older, and most female adults.| |
 | Awak | You | Aw  ak memandu --> You drive |
 | Kami | We | Kami   menulis --> We write |
 | Dia  | He/She  | he   smiles -->	Dia senyum |
