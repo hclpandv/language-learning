@@ -4,6 +4,11 @@
 
 *Apa ini/itu ?* What is this/that ? ini = Ni/Tu (informal)  
 
+* `Siapa` : Who 
+
+*Siapa Nama ?* Who is name ? (what is your name? ) *Nama saya Vikas*  
+
+
 * `Bila` : When
 
 *bila datang ini?* when you come here ?  
