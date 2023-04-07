@@ -20,6 +20,6 @@
 | tiga puluh lima | 35      |
 | seratus     | 100     |
 | seratus tiga puluh sembilan | 135 |
-| dua ratus tiga puluh lime | 235 |
+| dua ratus tiga puluh lima | 235 |
 | seribu      | 1000    |
 | dua ribu    | 2000    |
