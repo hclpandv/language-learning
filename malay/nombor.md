@@ -1,6 +1,6 @@
 ## Numbers | Nombor (No sigular/plural)
 
-|    Nombor   | Number  |
+| Nombor      | Number  |
 |    ---      | ---     |
 | satu        | 1       |
 | dua         | 2       |
