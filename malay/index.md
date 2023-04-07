@@ -8,6 +8,6 @@
 
 Malay pdf Matarial  
 [Bahasa Melayu Text Book Level1](pdfs/Bahasa-Melayu-Level-1-Text-Book.pdf)  
-[Komik Doremon](pdfs/doremon-komik/index.md)
+[Komik Doremon](pdfs/doremon-komik/index.md)  
 [Komik Detectif Conan](pdfs/detectif-conan-komik/index.md)
 
