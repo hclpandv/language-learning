@@ -2,9 +2,11 @@
 
 * `Apa` : What 
 
-*Apa ini/itu ?* What is this ? ini = Ni/Tu (informal)  
+*Apa ini/itu ?* What is this/that ? ini = Ni/Tu (informal)  
 
 * `Bila` : When
+
+*bila datang ini?* when you come here ?  
 
 * `mana` : Where
 
