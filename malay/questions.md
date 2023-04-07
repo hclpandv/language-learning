@@ -13,3 +13,7 @@
 * `macam mana` : How ?  
 
 *Minta maaf!! Macam mana pergi KLCC ?* Excuse me, How I go KLCC ?   
+
+* `berapa` : How much ?
+
+*Berapa harga ini?* How much price (for) this ? can be shorten as *Berapa Ni ?*
