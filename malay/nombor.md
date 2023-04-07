@@ -16,8 +16,10 @@
 | dua belas   | 12      |
 | dua puluh   | 20      |
 | dua puluh satu  | 21      |
-| tiga puluh lima | 35      |
 | tiga puluh  | 30      |
+| tiga puluh lima | 35      |
 | seratus     | 100     |
+| seratus tiga puluh sembilan | 135 |
+| dua ratus tiga puluh lime | 235 |
 | seribu      | 1000    |
 | dua ribu    | 2000    |
