@@ -1,6 +1,6 @@
 ## Verbs | Kata Kerja (Does not change with tense )
 
-| Verb                     | Meaning |
-|    ---                   | ---     |
-| Cakap (Bercakap)         | Speak   |
-| belajar                  | Learn   |
+| Kata Kerja               | Verb    |  Pronounciation | Example |
+|    ---                   | ---     | ---             |         |
+| Cakap (Bercakap)         | Speak   | *ChaKaap*       |         |
+| belajar                  | Learn   | *Blajar*        |         |
