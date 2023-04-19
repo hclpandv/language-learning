@@ -4,4 +4,4 @@
 |    ---                   | ---     | ---             | ---     |
 | Cakap (Bercakap)         | Speak   | *ChaKaap*       |         |
 | belajar                  | Learn   | *Blajar*        |         |
-| Tidur                    | Sleep   |                 |  Dia tidur di rumah kawannya.        |
+| Tidur                    | Sleep   |                 |  *Dia tidur di rumah kawannya.*<br> He sleeps at his friend’s house.        |
