@@ -11,7 +11,7 @@
 | Buka                     | Open         |             | *Swara, tolong buka tingkap.* <br> Swara, please open the window. <br> *Ibu membuka pintu.* <br> Mother opens the door.  |
 | Tutup                    | close/switch-off |             |         | 
 | Pakai                    | Wear         |             |         |
-| Buat                     | D0           |             |  *Saya nak buat kerja, jadi tolong jangan ganggu saya.* <br> I want to do my work, so please do not disturb me. <br> *Awak tengah buat apa?* <br> What are you doing? |
+| Buat                     | Do           |             |  *Saya nak buat kerja, jadi tolong jangan ganggu saya.* <br> I want to do my work, so please do not disturb me. <br> *Awak tengah buat apa?* <br> What are you doing? |
 | Jalan                    | Walk         |             |         |
 | Pergi                    | Go           |             |         |
 | Datang                   | come         |             |         |
