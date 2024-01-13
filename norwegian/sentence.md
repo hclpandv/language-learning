@@ -4,7 +4,7 @@
 
 - Norwegian sentences are often structured like English, with a subject (who or what the sentence is about), a verb (action or state), and an object (the thing or person affected by the action).
 
-**English:** I love pizza.
+**English:** I love pizza.  
 **Norwegian:** Jeg elsker pizza.
 
 ### 2. Pronouns:
