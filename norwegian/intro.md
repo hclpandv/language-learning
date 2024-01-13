@@ -3,8 +3,8 @@
 #### Introducing yourself
 
 Halo!! Jeg Heter Shaivi.    
-Jeg Kommer fra India.  
-Jeg Snakker Hindi *og* English (Engelsk)
+Jeg kommer fra India.  
+Jeg snakker Hindi *og* English (Engelsk)
 
 #### More
 
