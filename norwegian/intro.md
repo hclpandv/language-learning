@@ -2,7 +2,9 @@
 
 #### Introducing yourself
 
-Jeg Heter Shaivi.  Jeg Kommer fra India.  Jeg Snakker Hindi and English (Engelsk)
+Jeg Heter Shaivi.    
+Jeg Kommer fra India.  
+Jeg Snakker Hindi and English (Engelsk)
 
 #### More
 
