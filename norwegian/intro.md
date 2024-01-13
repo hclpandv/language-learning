@@ -4,7 +4,7 @@
 
 Jeg Heter Shaivi.    
 Jeg Kommer fra India.  
-Jeg Snakker Hindi and English (Engelsk)
+Jeg Snakker Hindi *og* English (Engelsk)
 
 #### More
 
