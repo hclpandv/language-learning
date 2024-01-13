@@ -4,6 +4,9 @@
 
 - Norwegian sentences are often structured like English, with a subject (who or what the sentence is about), a verb (action or state), and an object (the thing or person affected by the action).
 
+**English:** I love pizza.
+**Norwegian:** Jeg elsker pizza.
+
 ### 2. Pronouns:
 
 - In Norwegian, pronouns are used to replace names or nouns. Here are some examples:
@@ -40,21 +43,19 @@
   - **Hei! Hvordan har du det?** (Hello! How are you?)
   - **Takk for hjelpen!** (Thanks for the help!)
 
-### 8. Fun Sentences:
+### 8. Adjectives:
 
-- Practice making fun sentences:
-  - **Løven spiser is.** (The lion eats ice cream.)
-  - **Regnbuen er vakker.** (The rainbow is beautiful.)
+- Adjectives usually come after the noun:
+  - **En rød bil**. (A red car.)
+  - **En søt katt**. (A cute cat.)
 
-### 9. Numbers and Colors:
+### 9. Time and Place:
 
-- Incorporate numbers and colors into sentences:
-  - **Jeg har fem epler.** (I have five apples.)
-  - **Den røde bilen er min.** (The red car is mine.)
+- Usually, time and place expressions come after the subject or at the end of the sentence:
+  - **Hun jobber i Oslo.** (She works in Oslo.)
+  - **Jeg leker på stranden.** (I play on the beach.)
 
-### 10. Learn Through Play:
+### 10. Joining Clauses:
 
-- Play language games and use apps to practice sentence framing in a fun way.
-
-Remember to practice regularly and have conversations with others to improve your speaking skills in Norwegian!
-
+- Use conjunctions like "og" (and), "men" (but), and "for" (because) to join clauses:
+- **Jeg liker å lese, men jeg liker ikke å skrive.** (I like to read, but I don't like to write.)
