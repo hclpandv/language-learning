@@ -1,4 +1,4 @@
-## Sentence Framing in Norwegian:
+## Sentence Framing in Norwegian | Subject-Verb-Object (SVO):
 
 ### 1. Basic Structure:
 
