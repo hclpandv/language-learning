@@ -3,7 +3,7 @@
 - *I* - *Jeg* (pronounced: yay)
   - Example: **I** like ice cream. - **Jeg** liker iskrem.
 
-- *You* - *Du* (informal singular, pronounced: doo)
+- *You* - *Du* (informal singular, pronounced: d(u))
   - Example: **You** are my friend. - **Du** er min venn.
 
 - *He* - *Han* (pronounced: hahn)
@@ -26,10 +26,10 @@
 
 ### Possessive Pronouns:
 
-- *My* - *Min/Mitt* (depends on the gender, pronounced: meen/meet)
+- *My* - *Min/Mitt* (depends on the gender, pronounced: meen/mit)
   - Example: This is **my** toy. - Dette er **min** leke.
 
-- *Your* - *Din/Ditt* (pronounced: deen/deet)
+- *Your* - *Din/Ditt* (pronounced: deen/dit)
   - Example: Is this **your** book? - Er dette **din** bok?
 
 - *His* - *Hans* (pronounced: hahns)
