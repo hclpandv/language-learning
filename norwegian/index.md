@@ -8,6 +8,6 @@
 [Chapter 6 : Sentence](sentence.md)
 
 Norsk pdf Matarial  
-[TBD](pdfs/tbd.pdf)  
+[Mystery of nills](pdfs/the-mystery-of-nils-1-part-a.pdf.pdf)  
 
 
