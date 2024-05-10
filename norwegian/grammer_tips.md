@@ -8,5 +8,5 @@
   `Jeg tror det snor i morgen` `jeg tror det er fem(5) millianor menesker i Norge` `Jeg tros bussen kommer i 10 minutter`
   
 - **Skal vs Vil**
-  hghgh
-  
+  `Jeg skal gå på butikken` : I will go to market
+  `Jeg skal jobbe nå`: I will work now
