@@ -14,4 +14,9 @@ Norsk online Matarial
 [På gang](http://paagang.com/) *Intermediate Grammer*
 
 
+Youtube Channels
+
+* [Lær norsk](https://www.youtube.com/@learn-norwegian-truong/playlists) *Good for A1-A2-B1 Pa Vei*
+
+
 
