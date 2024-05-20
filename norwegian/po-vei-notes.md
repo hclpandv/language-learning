@@ -20,7 +20,8 @@
   *å Snakke* Snakker (Speak or Talk).. Snakker med Vikas etc..  
   *å Si* Sier (Say or tell).. `Vi sier ikke h foran v` We dont say h in front of v (like Hva becomes Va)
 
-  `Hei igjen` = Hi again (s: Hei ian)  
+  `Hei igjen` = Hi again (s: Hei ian)
+  Du Heter Maria, Ikke sant ? = You are Maria Right ?  
 
    
 
