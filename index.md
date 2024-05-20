@@ -2,16 +2,3 @@
 * [Norwegian](norwegian/index.md)
 * [English](english.md)
 
-**Quokka** (pronounced /ˈkwɒkə/): <button onclick="speakText('quokka')">Listen</button>
-
-<script>
-    function speakText(text) {
-        if ('speechSynthesis' in window) {
-            const utterance = new SpeechSynthesisUtterance(text);
-            utterance.lang = 'en-US'; // You can change the language here
-            window.speechSynthesis.speak(utterance);
-        } else {
-            alert('Speech synthesis not supported in this browser.');
-        }
-    }
-</script>
