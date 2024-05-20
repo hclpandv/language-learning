@@ -2,7 +2,7 @@
 
 >Norsk chars:  `å ø æ`
 
-* **Hva heter du ?**  
+- **Hva heter du ?**  
   *Skrift og uttale* = Writing and Pronounciation  
   *Uttrykk* = Expression  
   *Spørsmål og svar* = question and Answers  
