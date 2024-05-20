@@ -37,7 +37,12 @@
   snakk sammen!! = speak together  
   se på bildene = Look at the pictures  
 
-  >`bilde` picture `bildet` the picture `bilder` pictures `bildene` The pictures 
+  >`bilde` picture `bildet` the picture `bilder` pictures `bildene` The pictures
+
+  Hei Karim.. Hvorden gjør det ?  
+  Hei Bianca.. Ganske bra, takk. (*Ganske* Pretty/quite)  
+  
+  
   
   
    
