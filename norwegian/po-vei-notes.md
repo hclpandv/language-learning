@@ -33,8 +33,8 @@
   Jeg snakker med karim (talking to Karim)  
   Jeg snakker i teleohonen og skriver på PC (speking on phone and writing on PC)
 
-  snakk sammen!! = speak together
-  se på bildene = Look at the pictures
+  snakk sammen!! = speak together  
+  se på bildene = Look at the pictures  
 
   >`bilde` picture `bildet` the picture `bilder` pictures `bildene` The pictures 
   
