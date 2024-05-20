@@ -8,5 +8,5 @@
   Hvorden skriver Nikos ? Med K eller Med C ?  
   tbc ...  
   Hyggelig å treffe deg = Nice to meet you (Same as *Hyggelig å møte deg* )  
-  I like måte (Likewise... Notice `måte` vs `møte` )  
+  I like måte = Likewise (Notice `måte` vs `møte` )  
   
