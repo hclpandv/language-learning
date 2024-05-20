@@ -5,8 +5,8 @@
 [Chapter 3 : questions](questions.md)  
 [Chapter 4 : Numbers](numbers.md)  
 [Chapter 5 : Verbs](verbs.md)  
-[Chapter 6 : Sentence](sentence.md)
-[Chapter 7: På Vei Notes](po-vei-notes.md)
+[Chapter 6 : Sentence](sentence.md)  
+[Chapter 7 : På Vei Notes](po-vei-notes.md)
 
 Norsk pdf Matarial  
 [Mystery of nills](pdfs/the-mystery-of-nils-1-part-a.pdf)  
