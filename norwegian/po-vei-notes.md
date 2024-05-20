@@ -4,6 +4,6 @@
   Hvorden staver du det ? (How do you spell it ?)  
   Unnskyld, jeg forstår ikke. Hva betyr *staver* ? (s: Betir)  
   Hvorden skriver Nikos ? Med K eller Med C ?
-  tbc ...
+  tbc ...  
   Hyggelig å treffe deg = Nice to meet you (Same as *Hyggelig å møte deg* )  
   
