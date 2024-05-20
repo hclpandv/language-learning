@@ -28,7 +28,7 @@
   Hva gjør de ? what are they doing ?  
   Jeg vasker bilen (washing car)  
   Jeg lager mat (cooking food)  
-  Jeg skiver på PC (at PC/in PC)  
+  Jeg skriver på PC (at PC/in PC)  
   Jeg spiser og ser på TV (eating and watching TV)  
   Jeg snakker med karim (talking to Karim)  
   Jeg snakker i teleohonen og skriver på PC (speking on phone and writing on PC)
