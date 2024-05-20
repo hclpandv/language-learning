@@ -9,7 +9,7 @@
 *Fortsetter i del 2* = Continued in Part 2  
 *Pronomen* = Pronoun (s: pronuman)  
 
-- **Hva heter du ?**  
+- **Kapittel 1: Hva heter du ?**  
   Hvorden staver du det ? (How do you spell it ?)  
   Unnskyld, jeg forstår ikke. Hva betyr *staver* ? (s: Betir = Mean/Meaning)  
   Hvorden skriver Nikos ? Med K eller Med C ?  
