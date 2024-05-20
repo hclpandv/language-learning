@@ -4,7 +4,7 @@
 
 - **Hva heter du ?**  
   *Skrift og uttale* = Writing and Pronounciation  
-  *Uttrykk* = Expression
+  *Uttrykk* = Expression  
   *Spørsmål og svar* = question and Answers   
     
   Hvorden staver du det ? (How do you spell it ?)  
