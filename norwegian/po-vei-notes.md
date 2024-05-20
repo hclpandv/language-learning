@@ -12,5 +12,9 @@
     
   Hyggelig å treffe deg = Nice to meet you (Same as *Hyggelig å møte deg* )  
   I like måte = Likewise (Notice `måte` vs `møte` )
+
+  *å Snakke* Snakker (Speak or Talk).. Snakker med Vikas etc..
+  *å Si* Sier (Say or tell).. `Vi sier ikke h foran v` We dont say h in front of v (like Hva becomes Va)  
+
   
   
