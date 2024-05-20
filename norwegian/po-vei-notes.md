@@ -3,7 +3,7 @@
 >Norsk chars:  `å ø æ`
 
 - **Hva heter du ?**  
-  *Skrift og uttale* = Writing and Pronounciation
+  *Skrift og uttale* = Writing and Pronounciation  
   *Uttrykk* = Expression  
     
   Hvorden staver du det ? (How do you spell it ?)  
