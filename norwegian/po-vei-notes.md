@@ -3,7 +3,8 @@
 >Norsk chars:  `å ø æ`
 
 - **Hva heter du ?**  
-  Skrift og uttale = Writing and Pronounciation
+  *Skrift og uttale* = Writing and Pronounciation
+  *Uttrykk* = Expression  
     
   Hvorden staver du det ? (How do you spell it ?)  
   Unnskyld, jeg forstår ikke. Hva betyr *staver* ? (s: Betir)  
@@ -14,7 +15,9 @@
   I like måte = Likewise (Notice `måte` vs `møte` )
 
   *å Snakke* Snakker (Speak or Talk).. Snakker med Vikas etc..  
-  *å Si* Sier (Say or tell).. `Vi sier ikke h foran v` We dont say h in front of v (like Hva becomes Va)  
+  *å Si* Sier (Say or tell).. `Vi sier ikke h foran v` We dont say h in front of v (like Hva becomes Va)
+
+   
 
   
   
