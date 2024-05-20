@@ -40,7 +40,11 @@
   >`bilde` picture `bildet` the picture `bilder` pictures `bildene` The pictures
 
   Hei Karim.. Hvorden gjør det ?  
-  Hei Bianca.. Ganske bra, takk. (*Ganske* Pretty/quite)  
+  Hei Bianca.. Ganske bra, takk. (*Ganske* Pretty/quite)
+  Hva gjør du nå ?  
+  Jeg gjør på Norskkurs..
+  Når er du på Norskkurs ? (Notice No *main verb* here)
+  Tirsdag, onsdag og fredag..  
   
   
   
