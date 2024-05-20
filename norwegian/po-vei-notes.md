@@ -7,6 +7,7 @@
 *Spørsmål og svar* = question and Answers  
 *Kapittel 1 del 2* = Chapter 1 part 2  
 *Fortsetter i del 2* = Continued in Part 2  
+*Pronomen* = Pronoun (s: pronuman)  
 
 - **Hva heter du ?**  
   Hvorden staver du det ? (How do you spell it ?)  
