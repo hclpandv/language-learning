@@ -9,7 +9,7 @@
 
 - **Hva heter du ?**  
   Hvorden staver du det ? (How do you spell it ?)  
-  Unnskyld, jeg forstår ikke. Hva betyr *staver* ? (s: Betir)  
+  Unnskyld, jeg forstår ikke. Hva betyr *staver* ? (s: Betir = Mean/Meaning)  
   Hvorden skriver Nikos ? Med K eller Med C ?  
   tbc ...
     
