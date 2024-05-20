@@ -5,7 +5,8 @@
 - **Hva heter du ?**  
   *Skrift og uttale* = Writing and Pronounciation  
   *Uttrykk* = Expression  
-  *Spørsmål og svar* = question and Answers   
+  *Spørsmål og svar* = question and Answers  
+  *Fortsetter i del 2* = Continued in Part 2  
     
   Hvorden staver du det ? (How do you spell it ?)  
   Unnskyld, jeg forstår ikke. Hva betyr *staver* ? (s: Betir)  
