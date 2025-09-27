@@ -2,9 +2,9 @@
 ## Class 1. Lærer Ida
 
 #### Phrases
-jeg vil bli her
-hver gang du går ut av huset - everytime you go out of the house 
-i nærheten av - closeby
+1. jeg vil bli her
+2. hver gang du går ut av huset - everytime you go out of the house 
+3. i nærheten av - closeby
 
 
 #### Nye Ordene
