@@ -22,13 +22,33 @@
 18. jeg har ikke peiling - i have no clue
 19. vannet er klart - the water is clear 
 
-
 #### Nye Ordene
-
 1. nydelig - beautiful
 2. Trives du i Norge? `å trives-trives-trivdes-har trivdes`
 3. vår fortid - our past 
 4. en fremtid -a future
 5. en skuespiller - an actor/actress (mange skuespillere - many actors)
-6. 
+6. i midten av ingenssted - in the middle of nowhere
+
+## Class 2. Naboer (Lærer Daniel)
+
+#### Phrases
+1. nabolaget mitt er ganske stille - my neighborhood is pretty quiet
+2. for det meste - for the most part
+3. for å være ærlig - to be honest (Ærlig tatt)
+4. ikke enda - not yet
+5. foreldrene til vennene til døtre mine - the parents of my daughters' friends
+6. har dere mye til felles? - do you have a lot in common?
+
+#### Nye Ordene
+1. følge oss - follow us
+2. Tilbringer - spending time
+3. felleskap - community
+4. romkamerat - roommate
+
+
+
+
+
+
 
