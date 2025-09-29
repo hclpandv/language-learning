@@ -1,5 +1,5 @@
 
-## Class 1. Lærer Ida
+## Class 1. Intro A2 (Lærer Ida)
 
 #### Phrases
 1. jeg vil bli her
