@@ -115,7 +115,7 @@
 8. nødvendighet - necessity
 9. overveldende - overwhelming
 
-## Class 6. Enkle uttrykk ((Lærer Ingrid))
+## Class 6. Enkle uttrykk (Lærer Ingrid)
 
 #### Phrases (uttrykk)
 1. av og til = noen ganger
@@ -135,9 +135,17 @@
 2. sammenligner = compare
 3. ekstremt = extreme
 
+## Class 7. Bursdager  (Lærer Ingrid)
+
+#### Phrases (uttrykk)
+1. jeg hadde lyst på indisk mat.
+2. jeg snakket med vennene mine om det, men de forstod ikke, de tok ikke hintet!
 
 
-
+#### Nye Ordene
+1. liten samling - small gathering
+2. overraskelsesbursdag - surprise birthday
+3. forstå-forstår-forstod-har forstått
 
 
 
