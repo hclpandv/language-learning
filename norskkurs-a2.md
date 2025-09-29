@@ -115,10 +115,25 @@
 8. nødvendighet - necessity
 9. overveldende - overwhelming
 
+## Class 6. Enkle uttrykk ((Lærer Ingrid))
 
+#### Phrases (uttrykk)
+1. av og til = noen ganger
+2. det “ække” så farlig - der er ikke so farlig
+3. Hva tenker du er det viktigste å fokusere på når man lærer et nytt språk, først og fremst?
+4. å legge merke til = å se = to notice
+5. å få øye på = what catches your eye
+6. å legge til = to add (to a shopping cart)
+7. “det er ikke bare bare” = det er ikke så lett
+8. Hvordan føltes det? - how does it feel
+9. været er ikke bare bare her i Norge! ganske forskjellig når jeg sammenligner (compare) med mitt land.
+10. Hva er dine planer på sikt når det gjelder jobb eller utdanning? - What are your long-term plans when it comes to work or education?
+11. ikke kom uten øl! (beers)
 
-
-
+#### Nye Ordene
+1. å forvirre = to confuse
+2. sammenligner = compare
+3. ekstremt = extreme
 
 
 
