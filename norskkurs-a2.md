@@ -149,4 +149,7 @@
 
 
 
+#### Nye Ordene
+
+1. forventninger - expectations
 
