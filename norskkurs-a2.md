@@ -90,3 +90,40 @@
 8. 17.mai tog  (parade) barnetoget på 17.mai  
 9. en åker = a field 
 
+## Class 5. Endre/bytte/forandre (Lærer Daniel)
+
+#### Phrases
+1. skal du bytte bilen din? - are you going to change your car?
+2. skal du skifte leiligheten din? - are you going to change your apartment?
+3. vil du forandre din bilett? - Do you want to change your ticket?
+4. gjorde en feil - made a mistake
+5. Erstattet du telefonen din? - Did you replace your phone?
+6. Har du noe i livet du vil endre? - Do you have something in your life that you want to change?
+7. kunne være - could be
+8. Endrer du humør ofte? - Do you change your mood often? (to be moody)
+9. hvordan holder du deg rolig? - How do you keep calm
+10. nordlige del av India - northern part of India
+
+#### Nye Ordene
+1. førekort - driver's license
+2. avgjørelser - decisions
+3. fornøyd - satisfied
+4. en ting, flere ting, alle tingene (plural of ting is also ting)
+5. sint - angry
+6. rolig - calm
+7. lidenskap - passion
+8. nødvendighet - necessity
+9. overveldende - overwhelming
+
+
+
+
+
+
+
+
+
+
+
+
+
