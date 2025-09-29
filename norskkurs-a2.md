@@ -67,3 +67,28 @@
 7. Med én gang (immediately) … så jeg oversetter(translate) med en gang.
 8. Feirer nyttårsaften - celebrating new years eve
 9. En utstilling (exhibition)
+
+## Class 4. Fest og feiringer  (Lærer Ingrid)
+
+#### Phrases
+1. Hva slags feiringer/høytider har vi i Norge?
+2. Hva er den rareste høytiden eller feiringen du har hørt om? - What is the weirdest holiday or celebration you've heard of?
+3. det var veldig god *stemning* (mood)
+4. kan gå på ski overalt (everywhere)
+5. det er en religiøs feiring
+6. det er antatt å være (it is believed to be)
+7. hvis du besøker byen kan du tilbringe hele dagen der. (spend the day)
+
+#### Nye Ordene
+1. høytider - Holidays
+2. rar - strange/wierd
+3. søskenbarn = kusine, fetter
+4. et morsomt brettspill - a funny board game
+5. gave - gift
+6. langrenn (cross country)
+
+
+7. på tvers av = across
+8. 17.mai tog  (parade) barnetoget på 17.mai  
+9. en åker = a field 
+
