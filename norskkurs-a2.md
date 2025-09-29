@@ -62,7 +62,7 @@
 2. Undertekster - subtitles
 3. Å plukke sopp -  mushrooms
 4. leggetid -  bed time
-5. Ærlig talt (honestly)
+5. Ærlig talt (honestly) talt = literally spoken/said (past participle of å tale = “to speak”)
 6. beskjeder (announcements)
 7. Med én gang (immediately) … så jeg oversetter(translate) med en gang.
 8. Feirer nyttårsaften - celebrating new years eve
@@ -86,8 +86,6 @@
 4. et morsomt brettspill - a funny board game
 5. gave - gift
 6. langrenn (cross country)
-
-
 7. på tvers av = across
 8. 17.mai tog  (parade) barnetoget på 17.mai  
 9. en åker = a field 
