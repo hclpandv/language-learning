@@ -47,8 +47,23 @@
 4. romkamerat - roommate
 
 
+## Class 3. Vaner (Lærer Ingrid)
 
+#### Phrases
+1. Hva er noen ting som du gjør hver dag?
+2. Vi jobbet sammen før, så vi prøver *å holde kontakten* (keep in touch)
+3. Når jeg er tilbake fra kontoret mitt
+4. Jeg reiser til Norge *hvert* år
+5. I fjor dro jeg til Lofoten.
+6. Jeg vil gjerne se nordlyset
 
-
-
-
+#### Nye Ordene
+1. et sunt måltid - a healthy meal
+2. Undertekster - subtitles
+3. Å plukke sopp -  mushrooms
+4. leggetid -  bed time
+5. Ærlig talt (honestly)
+6. beskjeder (announcements)
+7. Med én gang (immediately) … så jeg oversetter(translate) med en gang.
+8. Feirer nyttårsaften - celebrating new years eve
+9. En utstilling (exhibition)
