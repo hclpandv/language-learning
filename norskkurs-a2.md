@@ -147,9 +147,18 @@
 2. overraskelsesbursdag - surprise birthday
 3. forstå-forstår-forstod-har forstått
 
+## Class 8. Spill: mitt skip er lastet med (Lærer Olivia)
 
+#### Phrases
+1. Mitt skip er lastet med..
+2. En student velger et ord og sier det høyt, det kan være hvilket som helst ord
+3. Neste student må komme opp med et nytt ord som begynner med den siste bokstaven i det forrige ordet.
+4. Studenten har cirka åtte sekunder på å svare.
+5. Hvis studenten ikke klarer å komme opp med et ord i løpet av tidsfristen, får den andre studenten poeng.
 
 #### Nye Ordene
-
-1. forventninger - expectations
+1. Elg - et typisk dyr i Norge = moose
+2. Ryggsekk (en rygg + en sekk)  = a backpack
+3. Tanker = thoughts
+4. Vis - har mye kunnskap/lærdom = wise (adjective)
 
