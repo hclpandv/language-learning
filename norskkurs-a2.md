@@ -165,5 +165,50 @@
 5. Blodprøve = bloodtest
 6. Kreft = cancer
 7. Frisk - du er ikke ikke syk (=! healthy sunn = healthy) *Jeg har vært syk med influensa i 3 dager, men nå er jeg endelig frisk!*
-   
+
+## Class 9. Falske venner (Lærer Maren)
+
+#### Phrases
+1. I dag skal vi snakke om Falske venner
+2. Å holde hva man lover – to keep what you promise
+3. Det er veldig viktig å passe på når du kjører bilen din fort. Du må passe på å se så du ikke har en ulykke. så du ikke krasjer (Kjører du bil i Oslo?) Nei, jeg kjører ikke bil. Jeg har ikke et førerkort. Jeg skal ta førerprøven
+
+4. Ja absolutt, jeg har to barn. Jeg har to døtre, vi bor sammen. Jeg liker barn generelt “chenerelt” De er morsomme  Jeg føler meg heldig (lucky). Jeg føler meg heldig å ha barna, det er alltid gøy å komme tilbake hjem. Jeg liker å se på tv med dem / de. Det er alt – that’s all. (Hvor gammel er de?) Den eldste er 14 år gammel, Den yngste er 8 år gammel (Er de venner eller krangler de?) Ja, de krangler alltid. 
+
+5. Jeg føler jeg sier for mye i samtaler, diskusjoner eller debatter med vennene mine. Etterpå angrer jeg på hva jeg har sagt. Etterpå angrer jeg for mye. (Blir dere venner igjen etterpå?) Ja jeg har fine venner. Det er lov å ha en diskujon!
+
+#### Nye Ordene
+1. En anger – a regret, Å angre – to regret
+2. En fart/ en hastighet – a speed 
+3. Å passe på – to watch
+4. En stund – a moment
+5. *å spørre – spør – spurte – har spurt* – to ask
+6. *å se – ser – så – har sett* - to see
+7. *Å si – sier – sa – har sagt* – to say
+8. *Å le – ler – lo – har ledd* – to laugh
+9. Å leke – to play – uten regler ; Å spille – to play – med regler (kort, sjakk, tennis, fotball, basket)
+10. En niese, En nevø (niece and nefew)
+11. Forvirrende – confusing
+12. Å fullføre – to finish / fulfill / complete (Du må fullføre det du lover)
+13. Skuffet – disappointed (Ellers så blir barna skuffet)
+14. Mett  - Jeg er mett – I am full (etter mat)
+15. Drita / dritafull (sland for full, drunk)
+16. Ja, ballonger som sprekker
+17. Å sprekke – to crack / to pop (Ja, ballonger som sprekker)
+18. En ulykke -an accident
+19. Å krasje – to crash
+20. Et førerkort -a drivers license
+21. Å bestå – to pass (Besto du første gangen? , did you pass it in first attempt)
+22. Å krangle – to fight
+23. En diskusjon – discussion (Politiske diskusjoner) 
+
+
+
+
+
+
+
+
+
+
 
