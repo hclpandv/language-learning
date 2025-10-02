@@ -155,10 +155,15 @@
 3. Neste student må komme opp med et nytt ord som begynner med den siste bokstaven i det forrige ordet.
 4. Studenten har cirka åtte sekunder på å svare.
 5. Hvis studenten ikke klarer å komme opp med et ord i løpet av tidsfristen, får den andre studenten poeng.
+6. Ingen valg = no opcion 
 
 #### Nye Ordene
 1. Elg - et typisk dyr i Norge = moose
 2. Ryggsekk (en rygg + en sekk)  = a backpack
 3. Tanker = thoughts
 4. Vis - har mye kunnskap/lærdom = wise (adjective)
+5. Blodprøve = bloodtest
+6. Kreft = cancer
+7. Frisk - du er ikke ikke syk (=! healthy sunn = healthy) *Jeg har vært syk med influensa i 3 dager, men nå er jeg endelig frisk!*
+   
 
