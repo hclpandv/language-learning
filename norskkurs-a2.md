@@ -1,5 +1,5 @@
 
-## Class 1. 15SEP25: Assosiering  (Lærer Ida)
+## Class 1. 15/SEP/25: Assosiering  (Lærer Ida)
 
 #### Phrases
 1. jeg vil bli her
@@ -30,7 +30,7 @@
 5. en skuespiller - an actor/actress (mange skuespillere - many actors)
 6. i midten av ingenssted - in the middle of nowhere
 
-## Class 2. 17SEP25: Naboer (Lærer Daniel)
+## Class 2. 17/SEP/25: Naboer (Lærer Daniel)
 
 #### Phrases
 1. nabolaget mitt er ganske stille - my neighborhood is pretty quiet
@@ -47,7 +47,7 @@
 4. romkamerat - roommate
 
 
-## Class 3. 18SEP25: Vaner (Lærer Ingrid)
+## Class 3. 18/SEP/25: Vaner (Lærer Ingrid)
 
 #### Phrases
 1. Hva er noen ting som du gjør hver dag?
@@ -68,7 +68,7 @@
 8. Feirer nyttårsaften - celebrating new years eve
 9. En utstilling (exhibition)
 
-## Class 4. 19SEP25: Fest og feiringer  (Lærer Ingrid)
+## Class 4. 19/SEP/25: Fest og feiringer  (Lærer Ingrid)
 
 #### Phrases
 1. Hva slags feiringer/høytider har vi i Norge?
@@ -90,7 +90,7 @@
 8. 17.mai tog  (parade) barnetoget på 17.mai  
 9. en åker = a field 
 
-## Class 5. 24SEP25: Endre/bytte/forandre (Lærer Daniel)
+## Class 5. 24/SEP/25: Endre/bytte/forandre (Lærer Daniel)
 
 #### Phrases
 1. skal du bytte bilen din? - are you going to change your car?
@@ -115,7 +115,7 @@
 8. nødvendighet - necessity
 9. overveldende - overwhelming
 
-## Class 6. 25SEP25: Enkle uttrykk (Lærer Ingrid)
+## Class 6. 25/SEP/25: Enkle uttrykk (Lærer Ingrid)
 
 #### Phrases (uttrykk)
 1. av og til = noen ganger
@@ -135,7 +135,7 @@
 2. sammenligner = compare
 3. ekstremt = extreme
 
-## Class 7. 26SEP25: Bursdager  (Lærer Ingrid)
+## Class 7. 26/SEP/25: Bursdager  (Lærer Ingrid)
 
 #### Phrases (uttrykk)
 1. jeg hadde lyst på indisk mat.
@@ -147,7 +147,7 @@
 2. overraskelsesbursdag - surprise birthday
 3. forstå-forstår-forstod-har forstått
 
-## Class 8. 29SEP25: Spill: mitt skip er lastet med (Lærer Olivia)
+## Class 8. 29/SEP/25: Spill: mitt skip er lastet med (Lærer Olivia)
 
 #### Phrases
 1. Mitt skip er lastet med..
@@ -166,7 +166,7 @@
 6. Kreft = cancer
 7. Frisk - du er ikke ikke syk (=! healthy sunn = healthy) *Jeg har vært syk med influensa i 3 dager, men nå er jeg endelig frisk!*
 
-## Class 9. 01OCT25: Falske venner (Lærer Maren)
+## Class 9. 01/OCT/25: Falske venner (Lærer Maren)
 
 #### Phrases
 1. I dag skal vi snakke om Falske venner
@@ -201,6 +201,21 @@
 21. Å bestå – to pass (Besto du første gangen? , did you pass it in first attempt)
 22. Å krangle – to fight
 23. En diskusjon – discussion (Politiske diskusjoner) 
+
+## Class 9. 02/OCT/25: Rutiner på arbeidsplassen (Lærer Ingrid)
+
+1. et skrivebord = a work desk
+2. Å skjemme bort = to spoil. Å være bortskjemt = to be spoiled.
+3. å være lei av = tired of, sick of
+4. Han gir og bestemmer (decides) arbeidstidene og arbeidsoppgavene.
+5. en del av arbeidet mitt er utvikling av apper og software. jeg har mange møter med (stakeholders). 
+6. Vi trenger krav (requirements) fra selskapene, kundene. Vi trenger å vite hva de trenger og ønsker.  Vi går til en kantine i nærheten av kontoret og tar noen små pauser (small breaks).
+7. Vi besøker noen kunder. noen er i Oslo så da besøker vi dem fysisk. noen ganger vi får vi informasjon muntlig. En virtuell tavle på Teams.
+8. En beskjed = a message
+9. regjering = government 
+10. avhengig av = depending on…. avhengig av hva jeg hørte.
+
+
 
 
 
