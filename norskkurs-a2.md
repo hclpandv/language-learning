@@ -202,7 +202,7 @@
 22. Å krangle – to fight
 23. En diskusjon – discussion (Politiske diskusjoner) 
 
-## Class 9. 02/OCT/25: Rutiner på arbeidsplassen (Lærer Ingrid)
+## Class 10. 02/OCT/25: Rutiner på arbeidsplassen (Lærer Ingrid)
 
 1. et skrivebord = a work desk
 2. Å skjemme bort = to spoil. Å være bortskjemt = to be spoiled.
