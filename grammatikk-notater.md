@@ -30,8 +30,7 @@ Tom og Lisa snakker norsk nå ("Tom og lisa" considered a single and first eleme
 Han snakker norsk nå
 Nå snakker han norsk
 Han kan snakke nork nå
-Nå kan han snakke nork ( If the subject is not first, and there are more than one verb, the subject
-will split the verbs)
+Nå kan han snakke nork ( If the subject is not first, and there are more than one verb, the subject will split the verbs)
 ```
 
 
