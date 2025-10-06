@@ -14,7 +14,7 @@ Når leser Anne? I dag. I dag = adverbial
 Vi kan kalle verb, subjekt, objekt og adverbial elementer i en setning. Et element og et ord er ikke det samme. 
 Objektet «ei bok» er for eksempel to ord, men bare ett element.
 
-## For a valid sentence in Norsk: 
+#### For a valid sentence in Norsk: 
 
 1. **There must be a verb and a subject**
 
