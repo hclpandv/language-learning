@@ -1,6 +1,20 @@
 ## Setninger [Sentences]
 
-for a valid sentence in Norsk. 
+Ordene i en setning har forskjellige funksjoner. Vi snakker om verb, subjekt, objekt og adverbial. 
+
+Her er et eksempel: **Anne leser ei bok i dag**
+
+```
+Hva gjør Anne? Hun leser. Leser = verb
+Hvem leser? Anne leser. Anne = subjekt
+Hva leser Anne? Ei bok. Ei bok = objekt
+Når leser Anne? I dag. I dag = adverbial
+```
+
+Vi kan kalle verb, subjekt, objekt og adverbial elementer i en setning. Et element og et ord er ikke det samme. 
+Objektet «ei bok» er for eksempel to ord, men bare ett element.
+
+Nå kan vi se hvordan vi plasserer elementene i en norsk setning. Her er fem viktige regler for strukturen i norske setninger.
 
 1. **There must be a verb and a subject**
 
@@ -24,7 +38,7 @@ Nå snakker han norsk
 Tom og Lisa snakker norsk nå ("Tom og lisa" considered a single and first element here)
 ```
    
-5. **The subject is in the first or third position**
+3. **The subject is in the first or third position**
 
 ```
 Han snakker norsk nå
@@ -34,9 +48,22 @@ Nå kan han snakke nork ( If the subject is not first, and there are more than o
 ```
 
 
-7. **The negation is behind the verb**
-8. **Adverbials are first or last**
+4. **The negation is behind the verb**
 
+```
+Han snakker ikke norsk nå
+Nå snakker han ikke norsk
+Han kan snakke nork nå
+Han kan ikke snakke norsk. (If there is more than one verb, the negation will split them.)
+```
+
+5. **Adverbials are first or last**
+
+```
+Sola skinner i Oslo nå
+Nå skinner sola i Oslo
+I Oslo skinner sola nå
+```
 
 
 
