@@ -68,7 +68,13 @@ I Oslo skinner sola nå
 <img width="682" height="313" alt="Image" src="https://github.com/user-attachments/assets/eab757ae-0702-4219-99dd-08ed940625b5" />
 
 
+## LEDDSETNINGER
 
+En leddsetning er objekt eller adverbial i en helsetning.  
+Her er et par eksempler:
+
+> Petter sier at han er glad.
+Petter sier hei når han kommer
 
 
 
