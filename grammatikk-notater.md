@@ -73,7 +73,7 @@ I Oslo skinner sola nå
 En leddsetning er objekt eller adverbial i en helsetning.  
 Her er et par eksempler:
 
-> Petter sier **at han er glad.**
+> Petter sier **at han er glad.**  
 Petter sier hei **når han kommer**
 
 
