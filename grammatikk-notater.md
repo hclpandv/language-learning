@@ -65,7 +65,7 @@ Nå skinner sola i Oslo
 I Oslo skinner sola nå
 ```
 
-
+<img width="682" height="313" alt="Image" src="https://github.com/user-attachments/assets/eab757ae-0702-4219-99dd-08ed940625b5" />
 
 
 
