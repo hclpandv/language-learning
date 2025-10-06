@@ -14,7 +14,7 @@ Når leser Anne? I dag. I dag = adverbial
 Vi kan kalle verb, subjekt, objekt og adverbial elementer i en setning. Et element og et ord er ikke det samme. 
 Objektet «ei bok» er for eksempel to ord, men bare ett element.
 
-Nå kan vi se hvordan vi plasserer elementene i en norsk setning. Her er fem viktige regler for strukturen i norske setninger.
+## For a valid sentence in Norsk: 
 
 1. **There must be a verb and a subject**
 
