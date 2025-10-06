@@ -1,3 +1,20 @@
+## Setninger [Sentences]
+
+for a valid sentence in Norsk. 
+
+1. **There must be a verb and a subject** 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Substantiv
 tba.. 
 ## Verb
@@ -10,10 +27,6 @@ tba..
 tba..
 
 ## Adjektiv
-På norsk tar adjektivet form etter substantivet eller pronomenet som det
-beskriver. De fleste adjektivene har tre former: maskulin/feminin, nøytrum og
-plural. Adjektivene bøyes også i ubestemt og bestemt form.
-
-Slags og adjectiver : 
+tba...
 
 
