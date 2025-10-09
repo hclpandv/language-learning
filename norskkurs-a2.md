@@ -216,11 +216,21 @@
 10. avhengig av = depending on…. avhengig av hva jeg hørte.
 
 
+## Class 12. 02/OCT/25: Rutiner på arbeidsplassen (Lærer Ingrid)
+
+#### Phrases
+1. Noen ganger arbeider jeg fra hjemme.
+2. jeg tar en liten lur = a nap
+3. Disse aktivitetene liker jeg å gjøre når jeg har fri.
+4. Når det gjelder fotball  - jeg forventer (expect) at han følger opp og gjør det selv... (when it comes to football...
+5. Da - bruker vi for fortiden,  Når - framtiden, generelt 
 
 
-
-
-
+#### Nye Ordene
+1. eplekjekk
+2. hybelkanin
+3. pjusk = litt syk, småsyk
+4. å være lei av = to be sick and tired of something 
 
 
 
