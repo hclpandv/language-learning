@@ -216,7 +216,7 @@
 10. avhengig av = depending on…. avhengig av hva jeg hørte.
 
 
-## Class 12. 02/OCT/25: Rutiner på arbeidsplassen (Lærer Ingrid)
+## Class 11. 03/OCT/25: Morsomme ord(Lærer Ingrid)
 
 #### Phrases
 1. Noen ganger arbeider jeg fra hjemme.
@@ -227,10 +227,20 @@
 
 
 #### Nye Ordene
-1. eplekjekk
-2. hybelkanin
+1. Eplekjekk = arrogant, overdrevent selvsikker
+2. Hybelkanin = ball av støv på gulvet
 3. pjusk = litt syk, småsyk
-4. å være lei av = to be sick and tired of something 
+4. Dupeditt = teknologisk ting (gadget)
+5. å være lei av = to be sick and tired of something
+
+## Class 12. 06/OCT/25: Hva eller hvilken (Lærer Maren)
+
+1. Å feire – feirer – feiret – har feiret – to celebrate 
+2. En samling - a gathering 
+3. Jeg har besøkt mange land. Jeg har også bodd i mange land, noen i Europa og noen i Asia. Mitt favoritt land er Malaysia Jeg bodde der noen få år men jeg tror alle land som er tropiske er vakre og du har så mye solskinn.
+4. Akkurat nå har jeg målet å lære norsk. Jeg er ny i Norge, så jeg ønsker å lære norsk så jeg kan se mer muligheter for meg Jeg kan også bli bedre sosialt generelt. Jeg prøver også å finne muligheten å integrere meg mer sosialt i Norge.
+
+
 
 
 
