@@ -1,0 +1,4 @@
+1️⃣ En film eller serie som har påvirket deg
+2️⃣ Hvordan du lærte norsk, og utfordringer du møter
+3️⃣ Sammenligning mellom India og Norge (kultur, utdanning, teknologi)
+4️⃣ Teknologiens rolle i dagens samfunn
