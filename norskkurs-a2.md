@@ -262,13 +262,104 @@ Det kommer an på – det avhenger av
 2. Vi treffer/ møter noen og sier “det var solskinn i dag”
 3. Å treffe / møte
 
-## Class 13. 09/OCT/25 Diskutere (Lærer Daniel)
+## Class 15. 09/OCT/25 Diskutere (Lærer Daniel)
 
-1. et ser ut som valgene våre står mellom.. - it looks like our choices are between..
-2. foreslår jeg at.. - I suggest that..
-3. 
+| Norsk                                                      | English                                             |
+|------------------------------------------------------------|-----------------------------------------------------|
+| det ser ut som valgene våre står mellom...                 | it looks like our choices are between…              |
+| foreslår jeg at...                                         | I suggest that…                                     |
+| har noen av oss vært på noen av disse stedene før?         | Have any of us been to any of these places before?  |
+| jeg har ikke vært på noen av dem                          | I haven't been to any of them                       |
+| etter min mening                                           | in my opinion                                      |
+| det beste alternativet er Japan                            | the best option is Japan                           |
+| høy temperatur                                             | high temperature                                   |
+| vi er på samme side                                        | we are on the same page                            |
+| vi er i samme båt                                          | we are in the same boat                            |
+| naturlig skjønnhet                                         | natural beauty                                     |
+| avslapping                                                 | relaxation                                         |
+| ingen av oss liker Dubai                                   | none of us like Dubai                              |
+| Hawaii er bedre hvis vi kan finne en mindre øy             | Hawaii is better if we can find a smaller island   |
+| utforske                                                   | explore                                            |
+| jeg er ok med begge                                        | I'm ok with both                                   |
+| besøke                                                     | visit                                              |
+| du har et godt poeng                                       | you have a good point                              |
+| kirsebærsesong                                             | cherry season                                      |
+| kjent                                                      | known                                              |
+| bekjent                                                    | acquaintance                                       |
+| det er bedre om vi alle kan dra på ferie sammen            | it's better if we can all go on holiday together   |
+| hvis det er greit?                                         | if that's okay?                                    |
+| foreslå                                                    | propose                                            |
+| muligheter/valg                                            | possibilities/choices                              |
+| mellom 5 og 6 timer fly                                    | between 5 and 6 hours by plane                     |
+| jo fler jo bedre                                           | the more the better                                |
+| sjø og strender                                            | sea and beaches                                    |
+| Hellas                                                     | Greece                                             |
+| grader/temperatur                                          | degrees/temperature                                |
+| vi kan finne noe for alle sammen                          | we can find something for everyone                 |
+| hva synes du?                                              | what do you think?                                 |
+| viktig at vi kan spise god mat                            | important that we can eat good food                |
+| kjenner dere til Gresk mat?                                | Do you know Greek food?                            |
+| veldig sunn mat                                            | very healthy food                                  |
+| jeg vil bo i et fint hotell                                | I want to stay in a nice hotel                     |
+| hvem vil sjekke på nett?                                   | who will check online?                             |
+| undersøke et hotell                                        | research a hotel                                   |
+| jeg kan gjøre det                                          | I can do it                                        |
+| jeg kan ta ansvar for det                                  | I can take responsibility for that                 |
+| hva annet?                                                 | what else?                                         |
+| flybilletter                                               | plane tickets                                      |
+| direkte fly                                                | direct flight                                      |
+| komfortabelt                                               | comfortable                                        |
+| koordinere                                                 | coordinate                                         |
+| flytid                                                     | flight time                                        |
+| ankommer omtrent samtidig                                  | arriving around the same time                      |
+| vi kan besøke museum                                       | we can visit the museum                            |
+| matservering på stranden                                   | food service at the beach                          |
+| for å dekke                                                | to cover                                           |
+| ser gode ut                                                | looks good                                         |
+| jeg skal ha det bra i Hellas                               | I will have a good time in Greece                  |
+| høres ut som en god plan                                   | sounds like a good plan                            |
+| vurdere det                                                | consider it                                        |
+| vi må sjekke ut været i november                           | we have to check the weather in November           |
+| for å bli sikker                                           | to be sure                                         |
+| det ser bra ut                                             | it looks good                                      |
+| trafikkork                                                 | traffic jam                                        |
+| distanse                                                   | distance                                           |
+| du kan være aktiv                                          | you can be active                                  |
+| hva drar du på jobb med?                                   | what do you wear to work?                          |
+| en og en halv time                                         | an hour and a half                                 |
+| jeg foretrekker å gå eller sykle                           | I prefer walking or cycling                        |
+| det er sunnere                                             | it's healthier                                     |
+| hvis man har et kontor som er lett å gå til                | if you have an office that is easy to go to        |
+| hvis du bor litt lengre unna må du finne en balanse        | if you live a little further away you have to find a balance |
+| høylytt                                                    | loud                                               |
+| aktiviteter                                                | activities                                         |
+| det beste                                                  | the best                                           |
+| landsby                                                    | village                                            |
+| jeg har alt jeg trenger                                    | I have everything I need                           |
+| en mellomting                                              | a middle ground                                   |
+| først og fremst                                            | primarily                                          |
+| rolig og stille                                            | calm and quiet                                    |
+| fredfullt                                                  | peaceful                                          |
+| overalt                                                    | everywhere                                        |
+| balansert                                                  | balanced                                          |
+| det er ganske balansert på det området                     | it is quite balanced in that area                 |
 
-## Class 14. 10/OCT/25 Skrive beskjeder svare på sms/mail (Lærer Ingrid)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Class 15. 10/OCT/25 Skrive beskjeder svare på sms/mail (Lærer Ingrid)
 
 
 
