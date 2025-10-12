@@ -225,7 +225,6 @@
 4. Når det gjelder fotball  - jeg forventer (expect) at han følger opp og gjør det selv... (when it comes to football...
 5. Da - bruker vi for fortiden,  Når - framtiden, generelt 
 
-
 #### Nye Ordene
 1. Eplekjekk = arrogant, overdrevent selvsikker
 2. Hybelkanin = ball av støv på gulvet
@@ -240,7 +239,28 @@
 3. Jeg har besøkt mange land. Jeg har også bodd i mange land, noen i Europa og noen i Asia. Mitt favoritt land er Malaysia Jeg bodde der noen få år men jeg tror alle land som er tropiske er vakre og du har så mye solskinn.
 4. Akkurat nå har jeg målet å lære norsk. Jeg er ny i Norge, så jeg ønsker å lære norsk så jeg kan se mer muligheter for meg Jeg kan også bli bedre sosialt generelt. Jeg prøver også å finne muligheten å integrere meg mer sosialt i Norge.
 
+## Class 13. 10/OCT/25 På pauserommet (jobb) (Lærer Maren)
 
+1. V: Hei, maten er ikke bra i dag.. ikke sant
+   W: Hvofor det?
+   V: Jeg liker ikke brødet de serverer i dag, Hva tenker du?
+   W: Jeg har ikke smakt brødet i dag, Du kan prøve andre ting som suppe
+   V: Jeg skal kanskje prøve det i morgen
+   W: Hvilken mat liker du best?
+   V: Jeg foretrekker indisk mat, men det er vanskelig å finne i kantina
+   V: Kanskje vi kan gå sammen
+   W: Visste du at indisk mat og pakistansk mat er ikke så forskjellig, det er samme
+   V: Jeg tror det er samme, men jeg liker å gå på pakistansk restaurant, Vi kan gå på pakistansk restaurant sammen
+   W: Ja det er en god ide
+2. (Om Sm@snakk) Det er forskjellig fra India. Det meste av småsnakk er om været og alltid om neste fest eller ferie. Det er en vanlig del av småsnakk– to meet
+Det er vanlig når vi møtes på /om morgenen på kontoret. I noen kulturer er det ikke så vanlig å snakke om politikk med kolleger, men i Norge gjør mange det. Det er ikke min erfarin
+
+Det kommer an på – det avhenger av
+
+#### Nye Ordene
+1. Overtid - overtime
+2. Vi treffer/ møter noen og sier “det var solskinn i dag”
+3. Å treffe / møte
 
 
 
