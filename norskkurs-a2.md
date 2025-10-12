@@ -239,7 +239,7 @@
 3. Jeg har besøkt mange land. Jeg har også bodd i mange land, noen i Europa og noen i Asia. Mitt favoritt land er Malaysia Jeg bodde der noen få år men jeg tror alle land som er tropiske er vakre og du har så mye solskinn.
 4. Akkurat nå har jeg målet å lære norsk. Jeg er ny i Norge, så jeg ønsker å lære norsk så jeg kan se mer muligheter for meg Jeg kan også bli bedre sosialt generelt. Jeg prøver også å finne muligheten å integrere meg mer sosialt i Norge.
 
-## Class 13. 10/OCT/25 På pauserommet (jobb) (Lærer Maren)
+## Class 13. 08/OCT/25 På pauserommet (jobb) (Lærer Maren)
 
 1. V: Hei, maten er ikke bra i dag.. ikke sant
    W: Hvofor det?
@@ -262,8 +262,13 @@ Det kommer an på – det avhenger av
 2. Vi treffer/ møter noen og sier “det var solskinn i dag”
 3. Å treffe / møte
 
+## Class 13. 09/OCT/25 Diskutere (Lærer Daniel)
 
+1. et ser ut som valgene våre står mellom.. - it looks like our choices are between..
+2. foreslår jeg at.. - I suggest that..
+3. 
 
+## Class 14. 10/OCT/25 Skrive beskjeder svare på sms/mail (Lærer Ingrid)
 
 
 
