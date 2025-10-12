@@ -312,75 +312,41 @@ Det kommer an på – det avhenger av
 Zhen: Bestått A2 norsk prøve - ut å feire   
 Hei, jeg har bestått A2 norskprøven. Har du lyst til å bli med og feire litt i kveld? Jeg skal spille minigolf i sentrum og spise middag sammen etter det. Gi meg beskjed om det passer.   
 
-Vikas: Gratulerer med prøven, det er så hyggelig å ~vite det~ høre. Jeg vil bli med deg. Takk for invitasjonen.   
+Vikas: Gratulerer med prøven, det er så hyggelig å ~~vite det~~ høre. Jeg vil bli med deg. Takk for invitasjonen.   
 
-Lisa: Gratulerer, du er så smart! Jeg vil gjerne bli med deg. Kan jeg gi deg en gave? Kan jeg ta med en gave? Hvilket klokkeslett? Når skal vi komme? Når starter det?   
+Lisa: Gratulerer, du er så smart! Jeg vil gjerne bli med deg. Kan jeg gi deg en gave? Kan jeg ta med en gave? Hvilket klokkeslett? / Når skal vi komme? / Når starter det?   
 
-Zhen: Kanskje klokka sju. Vi sees i sentrum. En gave skal kan/vil være bra hvis du har en gave. Du er så snill.   
+Zhen: Kanskje klokka sju. Vi sees i sentrum. En gave ~~skal~~ kan/vil være bra hvis du har en gave. Du er så snill.   
 vi snakkes!   
 
-Lisa: Du vil bli forsinket til middag med venner.  
-
+Lisa: Du vil bli forsinket til middag med venner.    
 Unnskyld, jeg blir forsinket fordi hunden min har spist sofaen min! Jeg vil komme i om 10 minutter.
-Vikas: Det er fint, vi er her for hele kvelden. Så du har nok (enough) tid til å fikse hundeproblemet. skål! (cheers). / Så du har god tid. 
+Vikas: Det er fint, vi er her ~~for~~ *hele* kvelden. Så du har nok (enough) tid til å fikse hundeproblemet. skål! (cheers). / Så du har god tid. 
 Lisa: jeg vil lukke hunden min inne på kjøkkenet. 
 
+Vikas: En ferie - invitere en venn til en ferie / fortelle noen at du skal på ferie.   
+(Skriver melding til en gruppe)  
+Hei dere, jeg tenker på å dra til noe sted i påskeferien. ~~Jeg liker å vite~~ *jeg vil gjerne vite* ~~hvordan~~ *hva* dere tenker om det. Planlegger dere noe? 
 
-Vikas:
- En ferie - invitere en venn til en ferie / fortelle noen at du skal på ferie. 
-ferie = holiday, vacation
+Zhen: Har ikke hatt påskeferie før. Hva gjør vi vanligvis? Hva ønsker du å gjøre?    
 
-Skriver melding til en gruppe
-Hei dere, jeg tenker på å dra til noe sted i påskeferien. Jeg liker å vite jeg vil gjerne vite hvordan hva dere tenker om det. Planlegger dere noe? 
-vil gjerne = would like 
+Vikas: vi går ut og spiser middag sammen med venner, men denne ferien tenker jeg ~~hvis~~ *om* vi drar til noe sted.
+(Hvor vil du dra?) - Påskeferien kommer i vår. Kanskje vi drar til noe hytte. 
 
-Zhen: Har ikke hatt påskeferie før. Hva gjør vi vanligvis? 
-Hva ønsker du å gjøre? 
-det er alt vi gjør i alle ferier. 
-
-Vikas: vi går ut og spiser middag sammen med venner, men denne ferien tenker jeg hvis om vi drar til noe sted.
-Hvor vil du dra? - Påskeferien kommer i vår. Kanskje vi drar til noe hytte. 
-
-Lisa:  Takk for melding, jeg setter pris på det. Jeg vil gjerne møte deg på hytta. Skal jeg bringe ta med hunden min?
+Lisa:  Takk for melding, jeg setter pris på det. Jeg vil gjerne møte deg på hytta. Skal jeg ~~bringe~~ *ta med* hunden min?
 
 Zhen: jeg håper du har ikke sofa i hytta! 
 
 Ingrid: hva skal vi spise, hva skal vi lage til middag når vi er på hytta?
 
-Vikas: så bra å høre. Det er fint, absolutt, du må ta hunden din. Jo flere, jo bedre! 
+Vikas: så bra å høre. Det er fint, absolutt, du må ta hunden din. *Jo flere, jo bedre!* (more the better) 
 Vi finner en hytte som har komfortabel sofa. Jeg skal sørge for å finne en fin sofa.
 Vi skal kjøpe dagligvarer fra butikken. Jeg tror alle av oss skal lage mat. 
 
-Å sørge for = to make sure
-
-
-å sette pris på = to appreciate 
-
-
-Spørre om avspasering fra jobb
-avspasering = fri fra jobb. 
-(arbeidstimer i pluss / plusstimer) 
-
 Lisa: Hei Olav! Jeg har jobbet mye i det siste, jeg har mye overtid. Jeg lurer på hvis jeg kan ta tre dager denne uka. Jeg er veldig sliten (tired). Er det greit for deg?
-å lure på = to wonder
 
-Vikas (Olav): det er fint, absolutt, ingen ikke noe problem! Ta den tiden du trenger, og ta vare på deg selv!
-ta vare = take care 
+Vikas (Olav): det er fint, absolutt, ~~ingen~~ *ikke noe* problem! Ta den tiden du trenger, og ta vare på deg selv!
 Lisa: takk olav, du er verdens beste sjef! 
-
-ingen=none 
-
- 
-
-En beskjed = a message, a notice 
-gi beskjed hvis du blir sen! 
-sjefen min ga meg beskjed om å jobbe med dette prosjektet nå. 
-
-en melding = a message 
-
-å legge merke til = to notice
-jeg la merke til at skolen bruker Skolemelding.
-
 
 #### Nye Ordene
 1. Mvh = Med vennlig hilsen = kind regards
@@ -391,6 +357,8 @@ jeg la merke til at skolen bruker Skolemelding.
 6. å legge merke til = to notice (jeg la merke til at skolen bruker Skolemelding.)
 7. take your time = ta den tiden du trenger
 8. ikke stress! - no worries
+9. Å sørge for = to make sure
+10. å sette pris på = to appreciate 
    
 
 
