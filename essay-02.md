@@ -1,9 +1,11 @@
 ## Listening [Video](https://www.youtube.com/watch?v=RbJodUXWwl4)
 
-Hei, alle sammen. I denne videoen vil jeg snakke litt om Nato. Og om Norge kan klare seg uten NATO, altså om Norge. kan overleve uten NATO.  
+Hei, alle sammen. I denne videoen vil jeg snakke litt om Nato. Og om Norge kan klare seg uten NATO, altså om Norge, kan overleve uten NATO.  
 Grunnen til at jeg vil snakke om det, er selvsagt det som holder på å skje i Europe og USA.  
 Akkurat nå, det er veldig usikkert hva som kommer til å skje meg NATO. Da tenkte jeg at det er på tide å snakke litt om Norge og NATO. 
 
-For Nato har vært fundamentet, grunnsteinen, grunnlaget for norsk sikkerhet. 
+For Nato har vært fundamentet, grunnsteinen, grunnlaget for norsk sikkerhet.   
+Hele tenken bak *å* forsvare Norge har vært bygget på NATO, spesielt USA. Så USA har vært utrolig viktige for norge etter andre vardenskrig.   
+Men for å forstå dette litt bedre, tenkte jeg at vi kunne snakke litt om hirtorien. 
 
 
