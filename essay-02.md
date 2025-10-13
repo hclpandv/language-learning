@@ -4,6 +4,6 @@ Hei, alle sammen. I denne videoen vil jeg snakke litt om Nato. Og om Norge kan k
 Grunnen til at jeg vil snakke om det, er selvsagt det som holder på å skje i Europe og USA.  
 Akkurat nå, det er veldig usikkert hva som kommer til å skje meg NATO. Da tenkte jeg at det er på tide å snakke litt om Norge og NATO. 
 
-Fpr Nato har vært fundamentet, grunnsteinen, grunnlaget for norsk sikkerhet. 
+For Nato har vært fundamentet, grunnsteinen, grunnlaget for norsk sikkerhet. 
 
 
