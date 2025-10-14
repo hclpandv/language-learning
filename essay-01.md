@@ -18,7 +18,7 @@ Når jeg tenker på en film som har påvirket meg på ulike måter, tenker jeg p
 
 Hei, Jeg skal snakker om min dagen så langt. Jeg stått opp klokka halv sju, og Jeg laget frokost og spiste det klokka sju. Da, jeg kom for kontoret mitt. Jeg begynte å arbide klokka ni. Jeg skal gå kantina til lunsj. på kvelden jeg skal dra til norskurs.
 
-CORRECTED: 
+CORRECTED:  
 Hei, Jeg skal snakke om min dagen så langt. Jeg sto opp klokka halv sju, og Jeg laget frokost og spiste klokka sju. 
 Deretter dro jeg til kontoret mitt. Jeg begynte å jobbe klokka ni. Jeg skal gå i kantina til lunsj. I kvelden skal jeg dra på norskurs.  
 
@@ -27,7 +27,7 @@ Deretter dro jeg til kontoret mitt. Jeg begynte å jobbe klokka ni. Jeg skal gå
 Jeg dro til Lopedmarked på lørdag med familien min. Vi kjøtpe noen leker og spille ting der.
 deretter dro vi til matbutikken og vi kjøpte dagligværer. På sandag vi dro til national theater og tilbringet tid sammen me kone min. 
 
-CORRECTED: 
+CORRECTED:   
 Jeg dro på loppemarked på lørdag med familien min. Vi kjøpte noen leker og spill der. Deretter dro vi til matbutikken og kjøpte dagligvarer.  
 På søndag dro vi til Nationaltheatret og tilbrakte tid sammen, jeg og kona mi.
 
@@ -35,6 +35,7 @@ På søndag dro vi til Nationaltheatret og tilbrakte tid sammen, jeg og kona mi.
 
 Vi besøker en festen på Sentrum dette år. Datteren min danser i festen denne gangen og hun practisering hverdag for dette. Dette er vår første Diwali i Norge, så vi skal se hvorden indisk selskappen fieret her. På hjemme skal vi be i kvelden og lage indisk maten. Vi skal også gjøre noe firevirkeri hjemme.   
 
+CORRECTED:   
 Vi skal besøke en fest i sentrum i år. Datteren min skal danse på festen denne gangen, og hun øver hver dag til det.
 Dette er vår første Diwali i Norge, så vi skal se hvordan det indiske samfunnet feirer her. Hjemme skal vi be om kvelden og lage indisk mat.
 Vi skal også gjøre litt fyrverkeri hjemme.
