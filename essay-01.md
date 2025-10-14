@@ -33,4 +33,5 @@ På søndag dro vi til Nationaltheatret og tilbrakte tid sammen, jeg og kona mi.
 
 ## 6. Hva skal vi gjøre til Diwali-feiringen denne gangen?
 
+Vi besøker en festen på Sentrum dette år. Datteren min danser i festen denne gangen og hun practisering hverdag for dette. Dette er vår første Diwali i Norge, så vi skal se hvorden indisk selskappen fieret her. På hjemme skal vi be i kvelden og lage indisk maten. Vi skal også gjøre noe firevirkeri hjemme.   
 
