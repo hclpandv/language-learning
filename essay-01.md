@@ -13,3 +13,9 @@ Når jeg tenker på en film som har påvirket meg på ulike måter, tenker jeg p
 
 
 ## 4. Teknologiens rolle i dagens samfunn
+
+## 5. Dagen min så langt
+
+Hei, Jeg skal snakke om min dagen så langt. Jeg sto opp klokka halv sju, og Jeg laget frokost og spiste klokka sju. 
+Deretter dro jeg til kontoret mitt. Jeg begynte å jobbe klokka ni. Jeg skal gå i kantina til lunsj. 
+I kvelden skal jeg dra på norskurs.  
