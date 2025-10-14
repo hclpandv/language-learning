@@ -30,3 +30,7 @@ deretter dro vi til matbutikken og vi kjøpte dagligværer. På sandag vi dro ti
 CORRECTED: 
 Jeg dro på loppemarked på lørdag med familien min. Vi kjøpte noen leker og spill der. Deretter dro vi til matbutikken og kjøpte dagligvarer.  
 På søndag dro vi til Nationaltheatret og tilbrakte tid sammen, jeg og kona mi.
+
+## 6. Hva skal vi gjøre til Diwali-feiringen denne gangen?
+
+
