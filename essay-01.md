@@ -6,7 +6,10 @@ Etter jeg hadde sett det, filmen gir meg de ordene.
 Når jeg tenker på en film som har påvirket meg på ulike måter, tenker jeg på 3 Idiots. Det er en indisk film som var veldig populær for lenge siden. Jeg føler meg veldig inspirert. Jeg tror filmen gjør en god jobb med å vise problemer i utdanningssystemet vårt. Filmen viser disse problemene på en komisk måte og gjør den engasjerende å se.
 
 ## 2. Hvordan du lærte norsk, og utfordringer du møter
-Å lære norsk var en utfordrende tid for meg. Det tok meg nesten fire måneder for å snakke uten å føle rart. Selv om, det har vært noe tid siden jeg har lærte dette språk, 
+Shaivi:Å lære norsk var en utfordrende tid for meg. Det tok meg nesten fire måneder for å snakke uten å føle rart. Selv om, det har vært noe tid siden jeg har lærte dette språk.   
+
+Jeg begynte å lære norsk for nesten ett år siden. Det har vært en interessant erfaring for meg. Jeg liker å lære norsk på forksjellig måter. 
+første begynte jeg med app sånn duolingo, babbel etc. Etterpå begynte jeg å fokusere på setninger når jeg hører på beskjeder på togstasjonen. Jeg fokuserer også når jeg hører folk snakke på offentlige steder.
 
 
 ## 3. Sammenligning mellom India og Norge (kultur, utdanning, teknologi)
