@@ -19,3 +19,8 @@ Når jeg tenker på en film som har påvirket meg på ulike måter, tenker jeg p
 Hei, Jeg skal snakke om min dagen så langt. Jeg sto opp klokka halv sju, og Jeg laget frokost og spiste klokka sju. 
 Deretter dro jeg til kontoret mitt. Jeg begynte å jobbe klokka ni. Jeg skal gå i kantina til lunsj. 
 I kvelden skal jeg dra på norskurs.  
+
+## 6. Hva gjorde jeg i helgen?
+
+Jeg dro til Lopedmarked på lørdag med familien min. Vi kjøtpe noen leker og spille ting der.
+deretter dro vi til matbutikken og vi kjøpte dagligværer. På sandag vi dro til national theater og tilbringet tid sammen me kone min. 
