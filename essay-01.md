@@ -40,3 +40,7 @@ Vi skal besøke en fest i sentrum i år. Datteren min skal danse på festen denn
 Dette er vår første Diwali i Norge, så vi skal se hvordan det indiske samfunnet feirer her. Hjemme skal vi be om kvelden og lage indisk mat.
 Vi skal også gjøre litt fyrverkeri hjemme.
 
+SUGGESTED_NATUAL:   
+Vi skal på en Diwali-fest i sentrum i år. Datteren min skal danse, og hun øver hver dag. Det er vår første Diwali i Norge, så vi gleder oss til å se hvordan det feires her.
+Hjemme skal vi be om kvelden, lage indisk mat og kanskje skyte opp litt fyrverkeri. 
+
