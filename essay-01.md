@@ -35,3 +35,7 @@ På søndag dro vi til Nationaltheatret og tilbrakte tid sammen, jeg og kona mi.
 
 Vi besøker en festen på Sentrum dette år. Datteren min danser i festen denne gangen og hun practisering hverdag for dette. Dette er vår første Diwali i Norge, så vi skal se hvorden indisk selskappen fieret her. På hjemme skal vi be i kvelden og lage indisk maten. Vi skal også gjøre noe firevirkeri hjemme.   
 
+Vi skal besøke en fest i sentrum i år. Datteren min skal danse på festen denne gangen, og hun øver hver dag til det.
+Dette er vår første Diwali i Norge, så vi skal se hvordan det indiske samfunnet feirer her. Hjemme skal vi be om kvelden og lage indisk mat.
+Vi skal også gjøre litt fyrverkeri hjemme.
+
