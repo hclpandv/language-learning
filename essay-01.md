@@ -44,3 +44,7 @@ SUGGESTED_NATURAL:
 Vi skal på en Diwali-fest i sentrum i år. Datteren min skal danse, og hun øver hver dag. Det er vår første Diwali i Norge, så vi gleder oss til å se hvordan det feires her.
 Hjemme skal vi be om kvelden, lage indisk mat og kanskje skyte opp litt fyrverkeri. 
 
+## 7. Når jeg besøker barnas skole
+
+Når jeg besøker barnas skole...
+
