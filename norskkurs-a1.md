@@ -3,7 +3,7 @@
 #### 14-Oct
 
 1. å vokse-vokser-vokste-har vokst `To grow` (Jeg vokste opp i Oslo.) 
-2. ei skje-skjea-skjer-skjene `a spoon` (bestikk=cutlery)
+2. ei skje-skjea-skjer-skjene `a spoon` (bestikk=cutlery) (also remember the verb å skje-skjer-skedde-har skedd `to happen`)
 3. ei skjorte-skjorta-skjorter-skjortene `a shirt`
 4. et skegg–skegget–skjegg–skjeggene `a beard` (Han har et langt skegg/Skjegget hans er veldig tykt `thick`.)
 5. sjokolade
