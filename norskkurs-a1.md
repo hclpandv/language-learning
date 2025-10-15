@@ -10,4 +10,6 @@
 6. en sjø–sjøen–sjøer–sjøene `a sea`
 7. sjelden `seldom`(Jeg går sjelden på kino) - å gjøre noe ofte
 8. en sky–skyen–skyer–skyene `cloud` (på himmelen er det mange skyer)
+9. en ski–skien–ski–skiene `a ski`(Om vinteren kan vi gå på ski og på skøyter `ice skates`)
+   
 
