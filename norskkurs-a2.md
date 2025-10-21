@@ -372,6 +372,15 @@ Lisa: takk olav, du er verdens beste sjef!
 
 ## Class 17. 16/OCT/25 På date (Lærer Ingrid)
 
+1. Ærlig talt, har jeg ikke hatt en mulighet å ta med noen på date. (å ha-har-hadde-har hatt)  
+Men hvis jeg tenker på en plassen plass hvor jeg vil ta med noen, da skal det være i nærheten av Nasjonalteateret, plassen som er i nærheten av vannet/fjorden - Aker Brygge. 
+jeg ville elsket å ta med noen på den plassen. jeg har mange ganger tatt med kona mi. (å ta-tar-tok-har tatt) 
+
+kan du si hvorfor du synes den plassen er fin? - så fint når sola går ned / ved solnedgang. Det er en god bris der på sommeren. “en lett sommerbris” 
+anbefale restauranter/puber? - denne plassen har en av de beste indiske restaurantene, New Dehli.
+du har noen anbefalinger allerede! - båter/ferjer som går til Nesodden. Sommersted. 
+
+
 
 
 
