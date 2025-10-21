@@ -360,6 +360,20 @@ Lisa: takk olav, du er verdens beste sjef!
 9. Å sørge for = to make sure
 10. å sette pris på = to appreciate 
    
+## Class 16. 13/OCT/25 Dobbel konsonent uttale (Lærer Ida)
+
+1. etter noen hektiske dager
+2. det tok litt tid men det er verdt det – it is worth
+3. et tak - a roof — lang vokal (takk - thanks ( kort vokal) 
+4. pen - lang vokal - pretty; penn – kort vokal - a pen
+5. å bake - to bake; en bakke - a hill 
+6. å leke - to play; å lekke - to leak 
+7. å mate – to feed; matte - math
+
+## Class 17. 16/OCT/25 På date (Lærer Ingrid)
+
+
+
 
 
 
