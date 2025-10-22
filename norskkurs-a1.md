@@ -1,6 +1,6 @@
 ## Norskurs i frikirken på Mortensrud
 
-#### 14-Oct
+#### 14-Oct-2025
 
 1. å vokse-vokser-vokste-har vokst `To grow` (Jeg vokste opp i Oslo.) 
 2. ei skje-skjea-skjer-skjene `a spoon` (bestikk=cutlery) (also remember the verb å skje-skjer-skedde-har skedd `to happen`)
@@ -20,5 +20,6 @@
 | **rs**          | mars, forsiktig        | rolled /r + s, sometimes like **sh** | mother’s, careful | Eastern Norwegian: “rs” may sound like sh in some dialects. |
 | **s + l**       | Oslo, slags, slange     | s + l pronounced separately /sl/ | Oslo, kind/type, snake | Unlike skj/sj, the s and l are distinct sounds. |
 
-   
+
+#### 21-Oct-2025
 
