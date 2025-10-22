@@ -374,11 +374,17 @@ Lisa: takk olav, du er verdens beste sjef!
 
 1. Ærlig talt, har jeg ikke hatt en mulighet å ta med noen på date. (å ha-har-hadde-har hatt)  
 Men hvis jeg tenker på en plassen plass hvor jeg vil ta med noen, da skal det være i nærheten av Nasjonalteateret, plassen som er i nærheten av vannet/fjorden - Aker Brygge. 
-jeg ville elsket å ta med noen på den plassen. jeg har mange ganger tatt med kona mi. (å ta-tar-tok-har tatt) 
+jeg ville elsket å ta med noen på den plassen. jeg har mange ganger tatt med kona mi. (å ta-tar-tok-har tatt)
 
-kan du si hvorfor du synes den plassen er fin? - så fint når sola går ned / ved solnedgang. Det er en god bris der på sommeren. “en lett sommerbris” 
+2. kan du si hvorfor du synes den plassen er fin? - så fint når sola går ned / ved solnedgang. Det er en god bris der på sommeren. “en lett sommerbris” 
 anbefale restauranter/puber? - denne plassen har en av de beste indiske restaurantene, New Dehli.
-du har noen anbefalinger allerede! - båter/ferjer som går til Nesodden. Sommersted. 
+du har noen anbefalinger allerede! - båter/ferjer som går til Nesodden. Sommersted.
+
+3. **Beskriv din drømmedate!** : Jeg elsker å gå på fest og danse hele kvelden. Liker ikke stille steder, må ha litt stemning!
+4. **Hva synes du om dobbel dates?** : Før vi giftet oss hadde vi mange felles venner (mutual friends), så vi tilbrakte ganske mye tid sammen.
+5. **Er dating i Norge likt eller forskjellig fra ditt hjemland?** : (india) ganske forskjellig. Dating generelt er vanlig for studenter, på universitetet, ikke etter man er gift. ekteskap er en institusjon i India. 
+
+
 
 
 
