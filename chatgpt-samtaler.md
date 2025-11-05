@@ -42,7 +42,7 @@ The trip was long, but the view was amazing. When we arrived, it was raining as 
 While my wife relaxed at the hotel, my daughter and I went to explore the city. After we visited the fish market, we walked along Bryggen and took many pictures. Before dinner, we went back to the hotel to rest a little. In the evening, we ate at a small restaurant that served traditional Norwegian food. Even though it rained all day, it was one of the best trips we have ever had.
 ```
 
-Mine: 
+Mine:   
 Forrige sommer, Familien min og jeg reiste til Bergan. Vi bestemte å reise med tog fordi vi ville å se fjell på veien. tripen var langt men utsikten var spennende. Da vi kom, det regner vanligvis i Bergen. Mens kona mi slappet av på Hotel, datteren mi og jeg kom til å explor byen. Etter at vi besøkte fiskemarked, gikk vi ved Bryggen og tok mange bilder. Før middag, vi kom tilbake hotel for slappet av liten. Om kvelden, spiste vi på en liten resturant som serverer tradisjonalen norsk mat. Selv om det regnet hele dagen, var det en av de beste tripper hadde vi ever hatt.
 
 CORRECTED:   
