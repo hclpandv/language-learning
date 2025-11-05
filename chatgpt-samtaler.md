@@ -35,3 +35,15 @@ Forrige Helgen, besøkte jeg vennen min i Oslo. Da jeg ble med, lager hun middag
 
 CORRECTED:   
 Forrige helg besøkte jeg vennen min i Oslo. Da jeg kom, laget han middag. Mens han lagde middag, pratet vi om planene våre for jul. Etter at vi ble ferdige med å spise, gikk vi en tur ved elva. Det var kaldt, men byen så vakker ut med alle lysene. Før jeg dro hjem, drakk vi kakao og så på en film.
+
+```
+Last summer, my family and I went on vacation to Bergen. We decided to travel by train because we wanted to see the mountains on the way.
+The trip was long, but the view was amazing. When we arrived, it was raining as usual in Bergen.
+While my wife relaxed at the hotel, my daughter and I went to explore the city. After we visited the fish market, we walked along Bryggen and took many pictures. Before dinner, we went back to the hotel to rest a little. In the evening, we ate at a small restaurant that served traditional Norwegian food. Even though it rained all day, it was one of the best trips we have ever had.
+```
+
+Mine: 
+Forrige sommer, Familien min og jeg reiste til Bergan. Vi bestemte å reise med tog fordi vi ville å se fjell på veien. tripen var langt men utsikten var spennende. Da vi kom, det regner vanligvis i Bergen. Mens kona mi slappet av på Hotel, datteren mi og jeg kom til å explor byen. Etter at vi besøkte fiskemarked, gikk vi ved Bryggen og tok mange bilder. Før middag, vi kom tilbake hotel for slappet av liten. Om kvelden, spiste vi på en liten resturant som serverer tradisjonalen norsk mat. Selv om det regnet hele dagen, var det en av de beste tripper hadde vi ever hatt.
+
+CORRECTED:   
+Forrige sommer reiste familien min og jeg til Bergen. Vi bestemte oss for å reise med tog fordi vi ville se fjellene på veien. Turen var lang, men utsikten var fantastisk. Da vi kom, regnet det som vanlig i Bergen. Mens kona mi slappet av på hotellet, utforsket datteren min og jeg byen. Etter at vi besøkte fiskemarkedet, gikk vi langs Bryggen og tok mange bilder. Før middag gikk vi tilbake til hotellet for å slappe av litt. Om kvelden spiste vi på en liten restaurant som serverte tradisjonell norsk mat. Selv om det regnet hele dagen, var det en av de beste turene vi noen gang har hatt.
