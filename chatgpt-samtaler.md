@@ -68,3 +68,12 @@ Reising har alltid vært noe som jeg trives egentlig. Hver gang besøker jeg et 
 
 CORRECTED:  
 Å reise har alltid vært noe jeg virkelig trives med. Hver gang jeg besøker et nytt sted, lærer jeg noe om menneskene og kulturen. Jeg lærer også mer om meg selv, spesielt når jeg reiser alene. For noen år siden dro jeg på en tur til Italia, og det ble en av de beste opplevelsene i livet mitt. Maten, historien og vennligheten til folkene gjorde det uforglemmelig. Jeg tror at det å reise hjelper oss å bli mer åpne og takknemlige for det vi har. I fremtiden vil jeg utforske flere land i Europa og kanskje til og med lære et nytt språk på veien.
+
+```
+Work has always been an important part of my life. I enjoy learning new things and improving my skills whenever I can.
+A few years ago, I started working on cloud technology, and since then, I have learned a lot.
+Sometimes the projects are difficult, but I like the challenge.
+When I solve a problem after many hours of trying, I feel very proud.
+I believe that hard work always gives good results, even if it takes time.
+In the future, I hope to share my knowledge with others and help them grow too.
+```
