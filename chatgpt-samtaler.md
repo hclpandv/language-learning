@@ -1,16 +1,3 @@
-
-| # | Din setning | Korrigert / Naturlig norsk | Forklaring |
-|---|------------|----------------------------|------------|
-| 1 | Jeg liker noen filmer som er litt gammal men det er populært likesom Imitaion Game... | Jeg liker noen filmer som er litt gamle, men som er populære, slik som *The Imitation Game*. | *gammal → gamle* (adjektiv bøyes i flertall), *likesom → slik som*, *Imitaion Game → The Imitation Game* (rett tittel) |
-| 2 | Det er mange ting, skuespiller Benedict, historie, den ww2 tema også et utsikten av Hvor viktig er teknologi da den byginner | Det er mange ting jeg liker – skuespilleren Benedict, historien, temaet om andre verdenskrig, og hvordan filmen viser hvor viktig teknologi var i begynnelsen. | *den ww2 tema → temaet om andre verdenskrig*, *et utsikten av → hvordan filmen viser*, *byginner → begynnelsen* |
-| 3 | Alan Turings livet er ikke bare inspirendene i filmen, men også i moderne tiden som er full av data maskiner og computing teknologi i generanlt | Alan Turings liv er ikke bare inspirerende i filmen, men også i moderne tid, som er full av datamaskiner og computing-teknologi generelt. | *livet → liv*, *inspirendene → inspirerende*, *tiden → tid*, *data maskiner → datamaskiner*, *i generanlt → generelt* |
-| 4 | Jeg tror samfunnet er altid vanskelig for man som er forskjellen... | Jeg tror samfunnet alltid er vanskelig for dem som er annerledes. | *altid → alltid*, *man som er forskjellen → dem som er annerledes* |
-| 5 | Verden alltid finne noe ting eller andre til imot ideen, så Alans personligheten var mare et excure to oppose ideen sin | Verden finner alltid noe å være imot, så Alan Turings personlighet var bare en unnskyldning for å motsette seg ideene hans. | *alltid finne → finner alltid*, *noe ting eller andre til imot ideen → noe å være imot*, *mare et excure → bare en unnskyldning*, *to oppose ideen sin → for å motsette seg ideene hans* |
-| 6 | Fordi, jeg ser filmen som et kunst forme, likesom noe kunst det har et tema som du føler connected.. | For meg er historien viktigst, fordi jeg ser film som en kunstform. Akkurat som annen kunst, har film et tema man kan føle seg knyttet til. | *kunst forme → kunstform*, *likesom noe kunst → akkurat som annen kunst*, *du føler connected → man kan føle seg knyttet* |
-| 7 | Ja det er få filmen som definitely forandret måtem jeg tenker på, for eksempel når jeg så "3 Idiot" som er en bollywood filmen, jeg byginte å tenke om utdanning systemer i India også generalt | Ja, det er noen filmer som definitivt har forandret måten jeg tenker på. For eksempel, da jeg så *3 Idiots*, som er en Bollywood-film, begynte jeg å tenke på utdanningssystemet i India generelt. | *få filmen → noen filmer*, *definitely → definitivt*, *måtem → måten*, *byginte → begynte*, *utdanning systemer → utdanningssystemet*, *generalt → generelt* |
-
-
-
 ```
 When I wake up, I always drink a glass of water. After that, I make coffee and read the news.
 If the weather is good, I go for a short walk before work. Sometimes I listen to music while I prepare breakfast.
@@ -47,3 +34,14 @@ Forrige sommer, Familien min og jeg reiste til Bergan. Vi bestemte å reise med 
 
 CORRECTED:   
 Forrige sommer reiste familien min og jeg til Bergen. Vi bestemte oss for å reise med tog fordi vi ville se fjellene på veien. Turen var lang, men utsikten var fantastisk. Da vi kom, regnet det som vanlig i Bergen. Mens kona mi slappet av på hotellet, utforsket datteren min og jeg byen. Etter at vi besøkte fiskemarkedet, gikk vi langs Bryggen og tok mange bilder. Før middag gikk vi tilbake til hotellet for å slappe av litt. Om kvelden spiste vi på en liten restaurant som serverte tradisjonell norsk mat. Selv om det regnet hele dagen, var det en av de beste turene vi noen gang har hatt.
+
+```
+I have always liked technology because it makes life easier. When I was a teenager, I used to build small electronic projects with my friends after school. Even though I didn’t always understand how everything worked, I loved experimenting. After I started working, I didn’t have as much time as before, but I still try to learn new things. Last year, I took an online course in cloud computing, which was very interesting.While I studied, my family supported me a lot. Before the final exam, I was nervous, but everything went well. Now I use what I learned in my job, and it helps me solve problems faster. Sometimes I still make mistakes, but I see them as a chance to improve. Learning never stops, and that’s what I love about technology.
+```
+
+Mine:  
+Jeg likte alltid teknologi fordi det lager liv enklere. Når jeg var ung, pleide jeg å bygge liten elektronisk prosjecter med vennene mine etter skole. Selv om forstod jeg ikke hvorden alt funket, elsket jeg å eksperimentere. Etter jeg begynte å jobbe hadde jeg ikke så mye tid like før, men jeg prøver enda å lære nye ting. I fjor tok jeg et nettkurset i cloud computing, som var veldig interessant. Mens studeret jeg familien min supported meg masse. Før siste prøven var jeg nervøs men alt gjorde bra. Nå bruker jeg hva lært jeg på jobben min og det hjelper meg å fikse problemer forter. Noen ganger Jeg lager enda galter men jeg sier dem som en sjance å forbedre. Læring slutter aldri og det er hva jeg elsker om teknologi.
+
+Jeg har alltid likt teknologi fordi det gjør livet enklere. Da jeg var tenåring, pleide jeg å bygge små elektroniske prosjekter med vennene mine etter skolen. Selv om jeg ikke alltid forstod hvordan alt fungerte, elsket jeg å eksperimentere. Etter at jeg begynte å jobbe, hadde jeg ikke like mye tid som før, men jeg prøver fortsatt å lære nye ting. I fjor tok jeg et nettkurs i skyteknologi, som var veldig interessant. Mens jeg studerte, støttet familien min meg mye. Før den siste prøven var jeg nervøs, men alt gikk bra. Nå bruker jeg det jeg har lært på jobben min, og det hjelper meg å løse problemer raskere. Noen ganger gjør jeg fortsatt feil, men jeg ser på dem som en sjanse til å bli bedre. Læring tar aldri slutt, og det er det jeg elsker med teknologi.
+
+
