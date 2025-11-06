@@ -63,3 +63,8 @@ I think traveling helps us become more open-minded and grateful for what we have
 In the future, I would like to explore more countries in Europe and maybe even learn a new language along the way.
 ```
 
+Mine:   
+Reising har alltid vært noe som jeg trives egentlig. Hver gang besøker jeg et nyt sted lærer jeg noe om folken og kulturen. Jeg lærer også mer om meg selv, spesielt når jeg reise alene. For noen år siden reiste jeg en tur til italia og det ble en av de beste erfaringene for livet mit. Maten, historiet og snillighet av folken ble det uglemmelig. Jeg tror reising hjelper oss å bli mer open minded og takkful for hva we har. I fremtiden liker jeg å explore mer Land i Europe og kansje enda å lære nyt språk om veien.  
+
+CORRECTED:  
+Å reise har alltid vært noe jeg virkelig trives med. Hver gang jeg besøker et nytt sted, lærer jeg noe om menneskene og kulturen. Jeg lærer også mer om meg selv, spesielt når jeg reiser alene. For noen år siden dro jeg på en tur til Italia, og det ble en av de beste opplevelsene i livet mitt. Maten, historien og vennligheten til folkene gjorde det uforglemmelig. Jeg tror at det å reise hjelper oss å bli mer åpne og takknemlige for det vi har. I fremtiden vil jeg utforske flere land i Europa og kanskje til og med lære et nytt språk på veien.
