@@ -77,3 +77,15 @@ When I solve a problem after many hours of trying, I feel very proud.
 I believe that hard work always gives good results, even if it takes time.
 In the future, I hope to share my knowledge with others and help them grow too.
 ```
+
+Mine:   
+Jobben har alltid vært en viktig del av livet mitt. Jeg trives med å lære nytt ting og forbedre fardihetene mine da jeg kan. 
+For noen år siden begynte jeg å jobbe med skyteknologi og siden den har jeg læret mye. Noen ganger prosjekter er vanskelige men jeg liker utfordringen.
+Når jeg løser et problem etter flare timene av å prøve, føler meg veldig stolt. Jeg synes at hard arbied alltid gir gode resultater, tar enda hvis det tid.
+I fremtiden håper jeg å dele kunskapen min med andre folken og hjelper dem å for vokse. 
+
+CORRECTED:  
+Jobben har alltid vært en viktig del av livet mitt. Jeg trives med å lære nye ting og forbedre ferdighetene mine når jeg kan.
+For noen år siden begynte jeg å jobbe med skyteknologi, og siden da har jeg lært mye. Noen ganger er prosjektene vanskelige, men jeg liker utfordringen.
+Når jeg løser et problem etter mange timer med prøving, føler jeg meg veldig stolt. Jeg synes at hardt arbeid alltid gir gode resultater, selv om det tar tid.
+I fremtiden håper jeg å dele kunnskapen min med andre og hjelpe dem å vokse.
