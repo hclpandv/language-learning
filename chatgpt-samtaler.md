@@ -89,3 +89,46 @@ Jobben har alltid vært en viktig del av livet mitt. Jeg trives med å lære nye
 For noen år siden begynte jeg å jobbe med skyteknologi, og siden da har jeg lært mye. Noen ganger er prosjektene vanskelige, men jeg liker utfordringen.
 Når jeg løser et problem etter mange timer med prøving, føler jeg meg veldig stolt. Jeg synes at hardt arbeid alltid gir gode resultater, selv om det tar tid.
 I fremtiden håper jeg å dele kunnskapen min med andre og hjelpe dem å vokse.
+
+```
+Every morning, I wake up early and go for a short walk. I like to start the day with fresh air and coffee. 
+After that, I usually read the news or check my emails. Sometimes I listen to music while preparing breakfast. 
+When I finish my morning routine, I feel ready for work. 
+Even if the weather is bad, I try to spend some time outside because it makes me feel better. 
+In the future, I want to have a routine that keeps me healthy and productive.
+```
+
+Mine:   
+Hver morgen står jeg opp tidlig og går på en kort tur. Jeg liker å starte dagen med fersk luft og kaffe. 
+Etterpå leser vanlegvis jeg nyheter eller sjekke epostene mine. Noen ganger hører jeg på musikk mens jeg lager frokost.
+Når jeg blir fardig med morgensrutine mine, foler meg jeg klar for jobben. 
+Selv om været er dårlig prøver jeg å tilbringe noe tid ute fordig det føler meg bedre.
+I fremtiden vil jeg ha en rutine som blir meg sunt og produktiv. 
+
+CORRECTED:  
+Hver morgen står jeg opp tidlig og går en kort tur. Jeg liker å starte dagen med frisk luft og kaffe.
+Etterpå leser jeg vanligvis nyheter eller sjekker e-postene mine. Noen ganger hører jeg på musikk mens jeg lager frokost.
+Når jeg er ferdig med morgenrutinen min, føler jeg meg klar for jobben.
+Selv om været er dårlig, prøver jeg å tilbringe litt tid ute fordi det gjør meg bedre.
+I fremtiden vil jeg ha en rutine som gjør meg sunn og produktiv.
+
+```
+Last weekend, I spent most of my time at home because the weather was bad. 
+In the morning, I cooked breakfast for my family and we ate together. After that, I read a book while drinking coffee. 
+In the afternoon, I decided to watch a movie because I wanted to relax. 
+Even though the rain continued, I went for a short walk in the evening to get some fresh air. 
+I also called my friend to talk about our plans for next weekend. 
+I like weekends because they give me time to rest and do the things I enjoy.
+```
+
+Mine:   
+Forrige helg, tilbrakte jeg meste av tiden min på hjemme fordi været var dårlig.
+I morges lagde jeg frokost for familien min og spiste oss sammen. Etterpå lest jeg ei boka mens jeg drakk kaffe.
+I ettermiddag, bestemte jeg meg å se på en film fordig ville jeg slapper av. Selv om det regnte gikk jeg en kort tur i kvelden å få noe frisk luft.
+Jeg liker helger fordi de gir meg tid å slapper av og å gjore tingene jeg trives med.
+
+CORRECTED:  
+Forrige helg tilbrakte jeg mesteparten av tiden min hjemme fordi været var dårlig.
+Om morgenen lagde jeg frokost til familien min, og vi spiste sammen. Etterpå leste jeg en bok mens jeg drakk kaffe.
+På ettermiddagen bestemte jeg meg for å se en film fordi jeg ville slappe av. Selv om det regnet, gikk jeg en kort tur om kvelden for å få litt frisk luft.
+Jeg liker helger fordi de gir meg tid til å slappe av og gjøre tingene jeg liker.
