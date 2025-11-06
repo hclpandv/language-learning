@@ -54,7 +54,12 @@ Jeg likte alltid teknologi fordi det lager liv enklere. Når jeg var ung, pleide
 Jeg har alltid likt teknologi fordi det gjør livet enklere. Da jeg var tenåring, pleide jeg å bygge små elektroniske prosjekter med vennene mine etter skolen. Selv om jeg ikke alltid forstod hvordan alt fungerte, elsket jeg å eksperimentere. Etter at jeg begynte å jobbe, hadde jeg ikke like mye tid som før, men jeg prøver fortsatt å lære nye ting. I fjor tok jeg et nettkurs i skyteknologi, som var veldig interessant. Mens jeg studerte, støttet familien min meg mye. Før den siste prøven var jeg nervøs, men alt gikk bra. Nå bruker jeg det jeg har lært på jobben min, og det hjelper meg å løse problemer raskere. Noen ganger gjør jeg fortsatt feil, men jeg ser på dem som en sjanse til å bli bedre. Læring tar aldri slutt, og det er det jeg elsker med teknologi.
 
 ```
-Traveling has always been something I really enjoy. Every time I visit a new place, I learn something about the people and the culture. I also learn more about myself, especially when I travel alone. A few years ago, I went on a trip to Italy, and it became one of the best experiences of my life. The food, the history, and the kindness of the people made it unforgettable. I think traveling helps us become more open-minded and grateful for what we have. In the future, I would like to explore more countries in Europe and maybe even learn a new language along the way.<img width="1268" height="216" alt="image" src="https://github.com/user-attachments/assets/967c3fee-a3c8-4e84-ba2a-b0c4c1a7e5e1" />
-
+Traveling has always been something I really enjoy.
+Every time I visit a new place, I learn something about the people and the culture.
+I also learn more about myself, especially when I travel alone.
+A few years ago, I went on a trip to Italy, and it became one of the best experiences of my life.
+The food, the history, and the kindness of the people made it unforgettable.
+I think traveling helps us become more open-minded and grateful for what we have.
+In the future, I would like to explore more countries in Europe and maybe even learn a new language along the way.
 ```
 
