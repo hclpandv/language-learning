@@ -36,7 +36,16 @@ CORRECTED:
 Forrige sommer reiste familien min og jeg til Bergen. Vi bestemte oss for å reise med tog fordi vi ville se fjellene på veien. Turen var lang, men utsikten var fantastisk. Da vi kom, regnet det som vanlig i Bergen. Mens kona mi slappet av på hotellet, utforsket datteren min og jeg byen. Etter at vi besøkte fiskemarkedet, gikk vi langs Bryggen og tok mange bilder. Før middag gikk vi tilbake til hotellet for å slappe av litt. Om kvelden spiste vi på en liten restaurant som serverte tradisjonell norsk mat. Selv om det regnet hele dagen, var det en av de beste turene vi noen gang har hatt.
 
 ```
-I have always liked technology because it makes life easier. When I was a teenager, I used to build small electronic projects with my friends after school. Even though I didn’t always understand how everything worked, I loved experimenting. After I started working, I didn’t have as much time as before, but I still try to learn new things. Last year, I took an online course in cloud computing, which was very interesting.While I studied, my family supported me a lot. Before the final exam, I was nervous, but everything went well. Now I use what I learned in my job, and it helps me solve problems faster. Sometimes I still make mistakes, but I see them as a chance to improve. Learning never stops, and that’s what I love about technology.
+I have always liked technology because it makes life easier.
+When I was a teenager, I used to build small electronic projects with my friends after school.
+Even though I didn’t always understand how everything worked, I loved experimenting.
+After I started working, I didn’t have as much time as before, but I still try to learn new things.
+Last year, I took an online course in cloud computing, which was very interesting.
+While I studied, my family supported me a lot.
+Before the final exam, I was nervous, but everything went well.
+Now I use what I learned in my job, and it helps me solve problems faster.
+Sometimes I still make mistakes, but I see them as a chance to improve.
+Learning never stops, and that’s what I love about technology.
 ```
 
 Mine:  
