@@ -153,3 +153,25 @@ En kveld så vi endelig nordlyset som danset på himmelen – det var et av de m
 Neste dag utforsket vi den lille byen, snakket med noen lokale folk og prøvde tradisjonell norsk mat.
 Selv om det var iskaldt, var alle smilende og vennlige. Den turen lærte meg hvor viktig det er å reise og oppleve nye kulturer.
 Jeg håper å dra dit igjen en dag, kanskje med familien min.
+
+```
+Last year, I decided to start learning Norwegian because I wanted to communicate better with people around me. 
+At first, it was difficult because the grammar and pronunciation were very different from English. 
+I made many mistakes, but I tried to practice a little every day. 
+Now, I can understand more when people talk to me, and I feel more confident. 
+I still have a lot to learn, but I know that I’m improving slowly. In the future, I hope to speak fluently and maybe even use Norwegian at work. 
+Learning a new language takes time, but it’s one of the most rewarding experiences I’ve ever had.
+```
+
+Mine:  
+I fjor, bestemte meg jeg å begynne Norskurs fordi jeg ville kommunisere bedre med folken rudt meg. 
+I første, var det vanskelig fordi gramattiken og uttalen var veldig forskjelige fra engelsk. 
+Jeg gjørde mange feil, men jeg prøvde å praktisere litt hver dag. Nå forstor jeg mer da folk snakker med meg, og jeg føler meg mer selvsikker.
+Jeg må lære enda mye, men jeg kjenner at jeg forbedrer meg sakt. I fremtiden, Jeg håper å snakke flytende og kanskje bruker jeg norsk enda på jobb.
+
+CORRECTED:  
+I fjor bestemte jeg meg for å begynne på norskkurs fordi jeg ville kommunisere bedre med folk rundt meg.
+I begynnelsen var det vanskelig fordi grammatikken og uttalen var veldig forskjellige fra engelsk.
+Jeg gjorde mange feil, men jeg prøvde å øve litt hver dag. Nå forstår jeg mer når folk snakker med meg, og jeg føler meg mer selvsikker.
+Jeg har fortsatt mye å lære, men jeg kjenner at jeg forbedrer meg sakte. I fremtiden håper jeg å snakke flytende og kanskje bruke norsk også på jobben.
+
