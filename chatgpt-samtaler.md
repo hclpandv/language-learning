@@ -132,3 +132,24 @@ Forrige helg tilbrakte jeg mesteparten av tiden min hjemme fordi været var dår
 Om morgenen lagde jeg frokost til familien min, og vi spiste sammen. Etterpå leste jeg en bok mens jeg drakk kaffe.
 På ettermiddagen bestemte jeg meg for å se en film fordi jeg ville slappe av. Selv om det regnet, gikk jeg en kort tur om kvelden for å få litt frisk luft.
 Jeg liker helger fordi de gir meg tid til å slappe av og gjøre tingene jeg liker.
+
+
+```
+Two years ago, I went on a trip to Northern Norway with some friends. We wanted to see the northern lights and experience the beautiful nature. The journey was long, but the view from the train was amazing. When we arrived, it was very cold, so we put on warm clothes before going outside. One evening, we finally saw the northern lights dancing across the sky — it was one of the most magical moments in my life. The next day, we explored the small town, talked to some locals, and tried traditional Norwegian food. Even though it was freezing, everyone was smiling and friendly. That trip taught me how important it is to travel and experience new cultures. I hope to go there again someday, maybe with my family.
+```
+
+Mine:  
+For two år siden, gikk jeg en tur til Nord Norge med noen venner. Vi ville å se nordlyset og opplevde den virkilige neturen. 
+Turen var langt, men utsikten fra tog var fantastiske. Når vi kom, var det kaldt, så vi klert på varm klærene før å go ut. 
+E`n kveld så vi endlig nordlyset som danset på himmelen - Det var en av the beste magiske stund i livet mitt. 
+Neste dagen, utforsket vi den liten byen, snakket med noen locale folken, og prøvde tradisjonel norske mat. 
+Selv om var det fersk, var alle sammen å smile od vennlig. Den turen lært meg hvor viktig er det å reise og oppleve nye kuturer. 
+Jeg håper å dra igjen, kansjke med familien min.    
+
+CORRECTED:  
+For to år siden dro jeg på en tur til Nord-Norge med noen venner. Vi ville se nordlyset og oppleve den vakre naturen.
+Turen var lang, men utsikten fra toget var fantastisk. Da vi kom, var det veldig kaldt, så vi tok på oss varme klær før vi gikk ut.
+En kveld så vi endelig nordlyset som danset på himmelen – det var et av de mest magiske øyeblikkene i livet mitt.
+Neste dag utforsket vi den lille byen, snakket med noen lokale folk og prøvde tradisjonell norsk mat.
+Selv om det var iskaldt, var alle smilende og vennlige. Den turen lærte meg hvor viktig det er å reise og oppleve nye kulturer.
+Jeg håper å dra dit igjen en dag, kanskje med familien min.
