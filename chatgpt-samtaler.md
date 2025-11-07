@@ -10,11 +10,10 @@ CORRECTED:
 Når jeg står opp, drikker jeg alltid et glass vann. Etterpå lager jeg kaffe og leser nyhetene. Hvis det er fint vær, går jeg en kort tur før jobben. Noen ganger lytter jeg på musikk mens jeg lager frokost. Jeg liker morgentid fordi det er stille og fredelig. Selv om jeg ofte er trøtt, gjør morgenen meg glad.  
 
 
-```
-Last weekend, I visited my friend in Oslo. When I arrived, he was cooking dinner.
+> Last weekend, I visited my friend in Oslo. When I arrived, he was cooking dinner.
 While he cooked, we talked about our plans for Christmas. After we finished eating, we went for a walk by the river.
 It was cold, but the city looked beautiful with all the lights. Before I went home, we drank some hot chocolate and watched a movie.
-```
+
 
 Mine:  
 Forrige Helgen, besøkte jeg vennen min i Oslo. Da jeg ble med, lager hun middag. Mens han lagde, pratet vi om vår planlegger for Jule. Etter at vi ble fardig med spising, gikk vi til en tur ved elve. Det var kaldt, med byen ser vakker ut med alle lysene.  
@@ -22,8 +21,7 @@ Forrige Helgen, besøkte jeg vennen min i Oslo. Da jeg ble med, lager hun middag
 CORRECTED:   
 Forrige helg besøkte jeg vennen min i Oslo. Da jeg kom, laget han middag. Mens han lagde middag, pratet vi om planene våre for jul. Etter at vi ble ferdige med å spise, gikk vi en tur ved elva. Det var kaldt, men byen så vakker ut med alle lysene. Før jeg dro hjem, drakk vi kakao og så på en film.
 
-```
-Last summer, my family and I went on vacation to Bergen. We decided to travel by train because we wanted to see the mountains on the way.
+> Last summer, my family and I went on vacation to Bergen. We decided to travel by train because we wanted to see the mountains on the way.
 The trip was long, but the view was amazing. When we arrived, it was raining as usual in Bergen.
 While my wife relaxed at the hotel, my daughter and I went to explore the city. After we visited the fish market, we walked along Bryggen and took many pictures. Before dinner, we went back to the hotel to rest a little. In the evening, we ate at a small restaurant that served traditional Norwegian food. Even though it rained all day, it was one of the best trips we have ever had.
 ```
@@ -34,8 +32,8 @@ Forrige sommer, Familien min og jeg reiste til Bergan. Vi bestemte å reise med 
 CORRECTED:   
 Forrige sommer reiste familien min og jeg til Bergen. Vi bestemte oss for å reise med tog fordi vi ville se fjellene på veien. Turen var lang, men utsikten var fantastisk. Da vi kom, regnet det som vanlig i Bergen. Mens kona mi slappet av på hotellet, utforsket datteren min og jeg byen. Etter at vi besøkte fiskemarkedet, gikk vi langs Bryggen og tok mange bilder. Før middag gikk vi tilbake til hotellet for å slappe av litt. Om kvelden spiste vi på en liten restaurant som serverte tradisjonell norsk mat. Selv om det regnet hele dagen, var det en av de beste turene vi noen gang har hatt.
 
-```
-I have always liked technology because it makes life easier.
+
+> I have always liked technology because it makes life easier.
 When I was a teenager, I used to build small electronic projects with my friends after school.
 Even though I didn’t always understand how everything worked, I loved experimenting.
 After I started working, I didn’t have as much time as before, but I still try to learn new things.
@@ -45,15 +43,14 @@ Before the final exam, I was nervous, but everything went well.
 Now I use what I learned in my job, and it helps me solve problems faster.
 Sometimes I still make mistakes, but I see them as a chance to improve.
 Learning never stops, and that’s what I love about technology.
-```
+
 
 Mine:  
 Jeg likte alltid teknologi fordi det lager liv enklere. Når jeg var ung, pleide jeg å bygge liten elektronisk prosjecter med vennene mine etter skole. Selv om forstod jeg ikke hvorden alt funket, elsket jeg å eksperimentere. Etter jeg begynte å jobbe hadde jeg ikke så mye tid like før, men jeg prøver enda å lære nye ting. I fjor tok jeg et nettkurset i cloud computing, som var veldig interessant. Mens studeret jeg familien min supported meg masse. Før siste prøven var jeg nervøs men alt gjorde bra. Nå bruker jeg hva lært jeg på jobben min og det hjelper meg å fikse problemer forter. Noen ganger Jeg lager enda galter men jeg sier dem som en sjance å forbedre. Læring slutter aldri og det er hva jeg elsker om teknologi.
 
 Jeg har alltid likt teknologi fordi det gjør livet enklere. Da jeg var tenåring, pleide jeg å bygge små elektroniske prosjekter med vennene mine etter skolen. Selv om jeg ikke alltid forstod hvordan alt fungerte, elsket jeg å eksperimentere. Etter at jeg begynte å jobbe, hadde jeg ikke like mye tid som før, men jeg prøver fortsatt å lære nye ting. I fjor tok jeg et nettkurs i skyteknologi, som var veldig interessant. Mens jeg studerte, støttet familien min meg mye. Før den siste prøven var jeg nervøs, men alt gikk bra. Nå bruker jeg det jeg har lært på jobben min, og det hjelper meg å løse problemer raskere. Noen ganger gjør jeg fortsatt feil, men jeg ser på dem som en sjanse til å bli bedre. Læring tar aldri slutt, og det er det jeg elsker med teknologi.
 
-```
-Traveling has always been something I really enjoy.
+> Traveling has always been something I really enjoy.
 Every time I visit a new place, I learn something about the people and the culture.
 I also learn more about myself, especially when I travel alone.
 A few years ago, I went on a trip to Italy, and it became one of the best experiences of my life.
@@ -68,14 +65,13 @@ Reising har alltid vært noe som jeg trives egentlig. Hver gang besøker jeg et 
 CORRECTED:  
 Å reise har alltid vært noe jeg virkelig trives med. Hver gang jeg besøker et nytt sted, lærer jeg noe om menneskene og kulturen. Jeg lærer også mer om meg selv, spesielt når jeg reiser alene. For noen år siden dro jeg på en tur til Italia, og det ble en av de beste opplevelsene i livet mitt. Maten, historien og vennligheten til folkene gjorde det uforglemmelig. Jeg tror at det å reise hjelper oss å bli mer åpne og takknemlige for det vi har. I fremtiden vil jeg utforske flere land i Europa og kanskje til og med lære et nytt språk på veien.
 
-```
-Work has always been an important part of my life. I enjoy learning new things and improving my skills whenever I can.
+> Work has always been an important part of my life. I enjoy learning new things and improving my skills whenever I can.
 A few years ago, I started working on cloud technology, and since then, I have learned a lot.
 Sometimes the projects are difficult, but I like the challenge.
 When I solve a problem after many hours of trying, I feel very proud.
 I believe that hard work always gives good results, even if it takes time.
 In the future, I hope to share my knowledge with others and help them grow too.
-```
+
 
 Mine:   
 Jobben har alltid vært en viktig del av livet mitt. Jeg trives med å lære nytt ting og forbedre fardihetene mine da jeg kan. 
@@ -89,13 +85,11 @@ For noen år siden begynte jeg å jobbe med skyteknologi, og siden da har jeg l�
 Når jeg løser et problem etter mange timer med prøving, føler jeg meg veldig stolt. Jeg synes at hardt arbeid alltid gir gode resultater, selv om det tar tid.
 I fremtiden håper jeg å dele kunnskapen min med andre og hjelpe dem å vokse.
 
-```
-Every morning, I wake up early and go for a short walk. I like to start the day with fresh air and coffee. 
+> Every morning, I wake up early and go for a short walk. I like to start the day with fresh air and coffee. 
 After that, I usually read the news or check my emails. Sometimes I listen to music while preparing breakfast. 
 When I finish my morning routine, I feel ready for work. 
 Even if the weather is bad, I try to spend some time outside because it makes me feel better. 
 In the future, I want to have a routine that keeps me healthy and productive.
-```
 
 Mine:   
 Hver morgen står jeg opp tidlig og går på en kort tur. Jeg liker å starte dagen med fersk luft og kaffe. 
@@ -111,14 +105,13 @@ Når jeg er ferdig med morgenrutinen min, føler jeg meg klar for jobben.
 Selv om været er dårlig, prøver jeg å tilbringe litt tid ute fordi det gjør meg bedre.
 I fremtiden vil jeg ha en rutine som gjør meg sunn og produktiv.
 
-```
-Last weekend, I spent most of my time at home because the weather was bad. 
+> Last weekend, I spent most of my time at home because the weather was bad. 
 In the morning, I cooked breakfast for my family and we ate together. After that, I read a book while drinking coffee. 
 In the afternoon, I decided to watch a movie because I wanted to relax. 
 Even though the rain continued, I went for a short walk in the evening to get some fresh air. 
 I also called my friend to talk about our plans for next weekend. 
 I like weekends because they give me time to rest and do the things I enjoy.
-```
+
 
 Mine:   
 Forrige helg, tilbrakte jeg meste av tiden min på hjemme fordi været var dårlig.
@@ -133,9 +126,8 @@ På ettermiddagen bestemte jeg meg for å se en film fordi jeg ville slappe av. 
 Jeg liker helger fordi de gir meg tid til å slappe av og gjøre tingene jeg liker.
 
 
-```
-Two years ago, I went on a trip to Northern Norway with some friends. We wanted to see the northern lights and experience the beautiful nature. The journey was long, but the view from the train was amazing. When we arrived, it was very cold, so we put on warm clothes before going outside. One evening, we finally saw the northern lights dancing across the sky — it was one of the most magical moments in my life. The next day, we explored the small town, talked to some locals, and tried traditional Norwegian food. Even though it was freezing, everyone was smiling and friendly. That trip taught me how important it is to travel and experience new cultures. I hope to go there again someday, maybe with my family.
-```
+> Two years ago, I went on a trip to Northern Norway with some friends. We wanted to see the northern lights and experience the beautiful nature. The journey was long, but the view from the train was amazing. When we arrived, it was very cold, so we put on warm clothes before going outside. One evening, we finally saw the northern lights dancing across the sky — it was one of the most magical moments in my life. The next day, we explored the small town, talked to some locals, and tried traditional Norwegian food. Even though it was freezing, everyone was smiling and friendly. That trip taught me how important it is to travel and experience new cultures. I hope to go there again someday, maybe with my family.
+
 
 Mine:  
 For two år siden, gikk jeg en tur til Nord Norge med noen venner. Vi ville å se nordlyset og opplevde den virkilige neturen. 
@@ -153,14 +145,13 @@ Neste dag utforsket vi den lille byen, snakket med noen lokale folk og prøvde t
 Selv om det var iskaldt, var alle smilende og vennlige. Den turen lærte meg hvor viktig det er å reise og oppleve nye kulturer.
 Jeg håper å dra dit igjen en dag, kanskje med familien min.
 
-```
-Last year, I decided to start learning Norwegian because I wanted to communicate better with people around me. 
+
+> Last year, I decided to start learning Norwegian because I wanted to communicate better with people around me. 
 At first, it was difficult because the grammar and pronunciation were very different from English. 
 I made many mistakes, but I tried to practice a little every day. 
 Now, I can understand more when people talk to me, and I feel more confident. 
 I still have a lot to learn, but I know that I’m improving slowly. In the future, I hope to speak fluently and maybe even use Norwegian at work. 
 Learning a new language takes time, but it’s one of the most rewarding experiences I’ve ever had.
-```
 
 Mine:  
 I fjor, bestemte meg jeg å begynne Norskurs fordi jeg ville kommunisere bedre med folken rudt meg. 
@@ -174,3 +165,6 @@ I begynnelsen var det vanskelig fordi grammatikken og uttalen var veldig forskje
 Jeg gjorde mange feil, men jeg prøvde å øve litt hver dag. Nå forstår jeg mer når folk snakker med meg, og jeg føler meg mer selvsikker.
 Jeg har fortsatt mye å lære, men jeg kjenner at jeg forbedrer meg sakte. I fremtiden håper jeg å snakke flytende og kanskje bruke norsk også på jobben.
 
+> Technology is changing our world faster than ever before. Every year, new inventions make our lives easier and more connected. I have always been interested in how technology can solve real-life problems. When I was younger, I spent hours learning about computers and building small projects. Now I work with cloud technology, and I can see how innovation helps companies grow. In the future, I believe artificial intelligence will become an even bigger part of our daily lives. It will change how we work, learn, and communicate. Even though new technology can be scary sometimes, I think it gives us amazing opportunities to create a better world.
+
+Mine:  
