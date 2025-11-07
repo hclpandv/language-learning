@@ -1,8 +1,7 @@
-```
-When I wake up, I always drink a glass of water. After that, I make coffee and read the news.
+> When I wake up, I always drink a glass of water. After that, I make coffee and read the news.
 If the weather is good, I go for a short walk before work. Sometimes I listen to music while I prepare breakfast.
 I enjoy mornings because they are quiet and peaceful. Even though I am often tired, mornings make me happy.
-```
+
 
 Mine:   
 Når jeg står opp, drikker jeg altid et grass vann. Etter på, lager jeg kaffe og leser nyheter. Hvis det er fin vær, går jeg for en kort tur før jobben. Noene ganger lytter jeg på musikk mens lager jeg frokost. Jeg liker morgestid fordi det er stille og ... Enda afte er jeg trøtt, blir morgen meg happy  
