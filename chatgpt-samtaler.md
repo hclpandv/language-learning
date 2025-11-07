@@ -24,7 +24,6 @@ Forrige helg besøkte jeg vennen min i Oslo. Da jeg kom, laget han middag. Mens 
 > Last summer, my family and I went on vacation to Bergen. We decided to travel by train because we wanted to see the mountains on the way.
 The trip was long, but the view was amazing. When we arrived, it was raining as usual in Bergen.
 While my wife relaxed at the hotel, my daughter and I went to explore the city. After we visited the fish market, we walked along Bryggen and took many pictures. Before dinner, we went back to the hotel to rest a little. In the evening, we ate at a small restaurant that served traditional Norwegian food. Even though it rained all day, it was one of the best trips we have ever had.
-```
 
 Mine:   
 Forrige sommer, Familien min og jeg reiste til Bergan. Vi bestemte å reise med tog fordi vi ville å se fjell på veien. tripen var langt men utsikten var spennende. Da vi kom, det regner vanligvis i Bergen. Mens kona mi slappet av på Hotel, datteren mi og jeg kom til å explor byen. Etter at vi besøkte fiskemarked, gikk vi ved Bryggen og tok mange bilder. Før middag, vi kom tilbake hotel for slappet av liten. Om kvelden, spiste vi på en liten resturant som serverer tradisjonalen norsk mat. Selv om det regnet hele dagen, var det en av de beste tripper hadde vi ever hatt.
@@ -57,7 +56,7 @@ A few years ago, I went on a trip to Italy, and it became one of the best experi
 The food, the history, and the kindness of the people made it unforgettable.
 I think traveling helps us become more open-minded and grateful for what we have.
 In the future, I would like to explore more countries in Europe and maybe even learn a new language along the way.
-```
+
 
 Mine:   
 Reising har alltid vært noe som jeg trives egentlig. Hver gang besøker jeg et nyt sted lærer jeg noe om folken og kulturen. Jeg lærer også mer om meg selv, spesielt når jeg reise alene. For noen år siden reiste jeg en tur til italia og det ble en av de beste erfaringene for livet mit. Maten, historiet og snillighet av folken ble det uglemmelig. Jeg tror reising hjelper oss å bli mer open minded og takkful for hva we har. I fremtiden liker jeg å explore mer Land i Europe og kansje enda å lære nyt språk om veien.  
