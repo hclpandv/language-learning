@@ -165,6 +165,33 @@ I begynnelsen var det vanskelig fordi grammatikken og uttalen var veldig forskje
 Jeg gjorde mange feil, men jeg prøvde å øve litt hver dag. Nå forstår jeg mer når folk snakker med meg, og jeg føler meg mer selvsikker.
 Jeg har fortsatt mye å lære, men jeg kjenner at jeg forbedrer meg sakte. I fremtiden håper jeg å snakke flytende og kanskje bruke norsk også på jobben.
 
-> Technology is changing our world faster than ever before. Every year, new inventions make our lives easier and more connected. I have always been interested in how technology can solve real-life problems. When I was younger, I spent hours learning about computers and building small projects. Now I work with cloud technology, and I can see how innovation helps companies grow. In the future, I believe artificial intelligence will become an even bigger part of our daily lives. It will change how we work, learn, and communicate. Even though new technology can be scary sometimes, I think it gives us amazing opportunities to create a better world.
+> Technology is changing our world faster than ever before. Every year, new inventions make our lives easier and more connected. I have always been interested in how technology can solve real-life problems. When I was younger, I spent hours learning about computers and building small projects. Now I work with cloud technology, and I can see how innovation helps companies grow. 
 
 Mine:  
+Teknologi endrer vår verden raskere enn noen gang. Hver år, gjør nye oppfinnelser livene vår enklere og mer tilkoblet.
+Jeg har alltid vært interessert hvorden teknologi løser ekteverd problemer. 
+Da jeg var ung tilbrakk jeg flere timer for å læare om datamaskiner og å bygge små prosjekter. 
+Nå jobber jeg med sky teknologi, og Jeg kan se hvorden teknologi hjelper firmer å grow. 
+
+CORRECTED : 
+Teknologi endrer verden vår raskere enn noen gang. Hvert år gjør nye oppfinnelser livene våre enklere og mer tilkoblet.
+Jeg har alltid vært interessert i hvordan teknologi kan løse virkelige problemer.
+Da jeg var ung, tilbrakte jeg flere timer på å lære om datamaskiner og bygge små prosjekter.
+Nå jobber jeg med skyteknologi, og jeg kan se hvordan teknologi hjelper bedrifter å vokse.
+
+> Last weekend, I traveled to Bergen. I took the famous funicular to the top of the high mountain and enjoyed the amazing view of the whole city.
+Later, I explored the old narrow streets in the centre and took photos of the colorful wooden houses.
+In the evening, I ate at the small kebab restaurant with the friendly staff and the delicious food.
+It was the best weekend trip I’ve had this year, and I hope to visit the beautiful city again soon.
+
+Mine:   
+Forrige helgen, reiste jeg til Bergen. Jeg tok den kjente Ulriksbanen til toppen av det høye fjellet og trivdes jeg den fantastiske utsikten av the hele byen.
+Videre utforket jeg de gamle narrow viene i midten av the senter og tok bilder av de fargerike trehusene. 
+Om kvelden spiste jeg på en kebabresturant med de vennlige staf og den dielig maten. 
+Det var den beste helgeturen av dette året og Jeg håpet å besøke igjen den vakre byen igjen snart.   
+
+CORRECTED:  
+Forrige helg reiste jeg til Bergen. Jeg tok den kjente Ulriksbanen til toppen av det høye fjellet og nøt den fantastiske utsikten over hele byen.
+Videre utforsket jeg de gamle, smale gatene i sentrum og tok bilder av de fargerike trehusene.
+Om kvelden spiste jeg på en liten kebabrestaurant med det vennlige personalet og den deilige maten.
+Det var den beste helgeturen i år, og jeg håper å besøke den vakre byen igjen snart.
