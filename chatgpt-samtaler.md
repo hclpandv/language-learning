@@ -209,5 +209,5 @@ After that I moved to Norway, I found new friends who taught me a lot on the cul
 > Jeg liker å lage mat fordi det hjelper meg å slappe av etter en lang dag. Når jeg lager mat, glemmer jeg ofte tiden, spesielt hvis jeg prøver en ny oppskrift.
 For meg handler matlaging ikke bare om å spise, men også om å være kreativ. Noen ganger lager jeg indisk mat for å minne meg om hjemmet, mens andre ganger prøver jeg norske retter som fårikål eller fiskekaker. Selv om jeg ikke alltid får det perfekt, lærer jeg noe nytt hver gang. Jeg tror at mat bringer folk sammen, og det er derfor jeg liker å lage middag for venner i helgene.
 
-Mine:  
-I like to cook food becaude it helps me to relax after a long day. 
+I like to cook because it helps me relax after a long day. When I cook, I often lose track of time, especially if I’m trying a new recipe.
+For me, cooking is not just about eating but also about being creative. Sometimes I make Indian food to remind me of home, while other times I try Norwegian dishes like mutton stew or fish cakes. Even though it doesn’t always turn out perfect, I learn something new every time. I believe food brings people together, and that’s why I like to make dinner for friends on weekends.
