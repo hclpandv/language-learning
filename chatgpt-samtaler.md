@@ -206,3 +206,8 @@ Friendship means a lot for me because friends make life better. When I am with m
 Even though we live in different cities, we try to be in touch as much as we can. Sometimes we talk over phone, while other times we meet on weekends.
 After that I moved to Norway, I found new friends who taught me a lot on the culture here. I believe real frindship is built on trust and support, not just to have fun. When I have a difficult day, I know that my friends are there for me - and I try to do the same for them.
 
+> Jeg liker å lage mat fordi det hjelper meg å slappe av etter en lang dag. Når jeg lager mat, glemmer jeg ofte tiden, spesielt hvis jeg prøver en ny oppskrift.
+For meg handler matlaging ikke bare om å spise, men også om å være kreativ. Noen ganger lager jeg indisk mat for å minne meg om hjemmet, mens andre ganger prøver jeg norske retter som fårikål eller fiskekaker. Selv om jeg ikke alltid får det perfekt, lærer jeg noe nytt hver gang. Jeg tror at mat bringer folk sammen, og det er derfor jeg liker å lage middag for venner i helgene.
+
+Mine:  
+I like to cook food becaude it helps me to relax after a long day. 
