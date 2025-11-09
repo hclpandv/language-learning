@@ -195,3 +195,14 @@ Forrige helg reiste jeg til Bergen. Jeg tok den kjente Ulriksbanen til toppen av
 Videre utforsket jeg de gamle, smale gatene i sentrum og tok bilder av de fargerike trehusene.
 Om kvelden spiste jeg på en liten kebabrestaurant med det vennlige personalet og den deilige maten.
 Det var den beste helgeturen i år, og jeg håper å besøke den vakre byen igjen snart.
+
+
+> Vennskap betyr mye for meg fordi gode venner gjør livet bedre. Når jeg er sammen med vennene mine, føler jeg meg alltid avslappet.
+Selv om vi bor i forskjellige byer, prøver vi å holde kontakt så ofte vi kan. Noen ganger snakker vi på telefon, mens andre ganger møtes vi i helgene.
+Etter at jeg flyttet til Norge, fikk jeg nye venner som har lært meg mye om kulturen her. Jeg synes ekte vennskap handler om tillit og støtte, ikke bare om å ha det gøy. Når jeg har en vanskelig dag, vet jeg at vennene mine er der for meg — og jeg prøver å gjøre det samme for dem.
+
+Mine:  
+Friendship means a lot for me because friends make life better. When I am with my frinds, I always feel relaxed. 
+Even though we live in different cities, we try to be in touch as much as we can. Sometimes we talk over phone, while other times we meet on weekends.
+After that I moved to Norway, I found new friends who taught me a lot on the culture here. I believe real frindship is built on trust and support, not just to have fun. When I have a difficult day, I know that my friends are there for me - and I try to do the same for them.
+
