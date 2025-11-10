@@ -211,3 +211,12 @@ For meg handler matlaging ikke bare om å spise, men også om å være kreativ. 
 
 I like to cook because it helps me relax after a long day. When I cook, I often lose track of time, especially if I’m trying a new recipe.
 For me, cooking is not just about eating but also about being creative. Sometimes I make Indian food to remind me of home, while other times I try Norwegian dishes like mutton stew or fish cakes. Even though it doesn’t always turn out perfect, I learn something new every time. I believe food brings people together, and that’s why I like to make dinner for friends on weekends.
+
+> Every day, I try to learn something new, even if it’s just a small thing. Sometimes I read an article about technology, and other times I listen to a podcast while walking. I believe that learning a little every day helps me stay curious and motivated. When I make mistakes, I try not to be frustrated, because that’s how I improve. In the future, I want to use what I learn to help others and make a positive difference in their lives.
+
+Mine:  
+Hver dag, Jeg prøver å lære noe nytt, selv om det er liten ting. Noen ganger leser jeg et artikkel om teknologi, og andre ganger lytter jeg til et podcast mens jeg går. Jeg seynes at å lære et liten ting hver dag hjelper meg være nysgjerrig og motivert. Når jeg gjør feil, prøver jeg ikke være frustated, fordi det er hvordan jeg forbedre. I fremtiden vill jeg bruke hva jeg lærer å hjelpe andre folken og gjør en positive forskjellen i lievene de.   
+
+CORRECTED:  
+Hver dag prøver jeg å lære noe nytt, selv om det bare er en liten ting. Noen ganger leser jeg en artikkel om teknologi, og andre ganger lytter jeg til en podkast mens jeg går. Jeg synes at det å lære litt hver dag hjelper meg å holde meg nysgjerrig og motivert. Når jeg gjør feil, prøver jeg å ikke bli frustrert, fordi det er slik jeg forbedrer meg. I fremtiden vil jeg bruke det jeg lærer til å hjelpe andre og gjøre en positiv forskjell i livene deres.
+
