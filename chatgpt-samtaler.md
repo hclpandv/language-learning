@@ -220,3 +220,19 @@ Hver dag, Jeg prøver å lære noe nytt, selv om det er liten ting. Noen ganger 
 CORRECTED:  
 Hver dag prøver jeg å lære noe nytt, selv om det bare er en liten ting. Noen ganger leser jeg en artikkel om teknologi, og andre ganger lytter jeg til en podkast mens jeg går. Jeg synes at det å lære litt hver dag hjelper meg å holde meg nysgjerrig og motivert. Når jeg gjør feil, prøver jeg å ikke bli frustrert, fordi det er slik jeg forbedrer meg. I fremtiden vil jeg bruke det jeg lærer til å hjelpe andre og gjøre en positiv forskjell i livene deres.
 
+> I have become more aware of the environment in the last few years. When I was younger, I didn’t think much about how my actions affected nature. Now I try to recycle more, use less plastic, and walk or take the bus instead of driving. Even small changes can make a big difference if everyone does them. Sometimes it’s not easy to live in an environmentally friendly way, but I believe it’s important to try. In the future, I want to do even more to protect the planet for the next generations.
+
+Mine:  
+Jeg har blitt mer kjent på miliøghet i de siste noen årene. Da var jeg yngre tenkte jeg ikke mye om hvordan handlingene mine påvirket naturen. Nå prøver jeg resykkle mer, bruker mindre plast, og går eller tar bussen i sted av å kjøre. Selv om liten enderer kan gjøre en stor enderinge hvis alle sammen gjør dem. Noen ganger er det ikke lett å leve et miljøvennlig måte, men jeg seynes det er viktig å prøve. I fremtiden, Jeg vill gjerne mer å beskytte planeten for neste generasjonen. 
+
+CORRECTED:  
+Jeg har blitt mer bevisst på miljøet de siste årene. Da jeg var yngre, tenkte jeg ikke mye på hvordan handlingene mine påvirket naturen. Nå prøver jeg å resirkulere mer, bruke mindre plast og gå eller ta bussen i stedet for å kjøre. Selv små endringer kan gjøre en stor forskjell hvis alle gjør dem. Noen ganger er det ikke lett å leve på en miljøvennlig måte, men jeg synes det er viktig å prøve. I fremtiden vil jeg gjerne gjøre mer for å beskytte planeten for de neste generasjonene.
+
+> Last year, I decided to learn something completely new — playing the guitar. At first, it was difficult because my fingers hurt and I couldn’t remember the chords. But after a few weeks of practice, I started to notice progress, and that motivated me to continue. Now I try to practice a little every evening, even when I’m tired after work. Sometimes I play simple songs, while other times I try to create my own melodies. In the future, I hope to play well enough to perform for my friends, just for fun. Learning the guitar has taught me that patience and consistency are the keys to improvement.
+
+Mine:  
+Forrige år, bestemte meg for å lære noe helt nyt - å spille gitar. I begynnelsen var det vanskelig fordi fingerene mine hurt og kunne jeg minner korden. men etter noen ukene av øvering, begynnte jeg notererer forbedering, og det motiverert meg for å fortsette. Nå prøver jeg å øve litt hver kvelden, selv om jeg er trøtt. Noen ganger spiller jeg enkel sangene, andre ganger prøver å lage min egen melodier. I fremtiden håper jeg å spille nok å performere for vennene mine, bare for gøy. å lære gitar har undervisnet meg at patience og consistency er nøkeller å forbedre. 
+
+CORRECTED:  
+I fjor bestemte jeg meg for å lære noe helt nytt – å spille gitar. I begynnelsen var det vanskelig fordi fingrene mine gjorde vondt, og jeg klarte ikke å huske akkordene. Men etter noen uker med øving begynte jeg å merke fremgang, og det motiverte meg til å fortsette. Nå prøver jeg å øve litt hver kveld, selv om jeg er trøtt etter jobb. Noen ganger spiller jeg enkle sanger, mens andre ganger prøver jeg å lage mine egne melodier. I fremtiden håper jeg å spille godt nok til å opptre for vennene mine – bare for moro skyld. Å lære gitar har lært meg at tålmodighet og kontinuitet er nøklene til forbedring.
+
