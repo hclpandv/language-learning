@@ -253,3 +253,11 @@ I går møtet jeg vennen mi Anna og broren hennes. Jeg hjelpet henne å carry ba
 CORRECTED:  
 I går møtte jeg vennen min Anna og broren hennes. Jeg hjalp henne med å bære bagen hennes fordi den var veldig tung. Broren hennes takket meg og fortalte meg om hans nye jobb. Senere så jeg to av klassekameratene mine, og jeg inviterte dem til å bli med oss på en kaffe. Jeg ga Anna en liten gave for å vise hvor mye jeg setter pris på henne. Da broren hennes spurte meg om jeg kunne hjelpe ham med en oppgave på skolen, fortalte jeg ham at jeg ville være glad for å hjelpe.
 
+> Last weekend, I went to visit my friend Maria and her brother. I brought a small gift for her, and she was very happy. Her brother showed me his new bicycle, and I tried to ride it for a few minutes. Later, Maria introduced me to two of her classmates, and I spent some time talking with them. I gave Maria some advice about her school project because I wanted to help her. Then her brother asked me if I could help him with a math problem, and I promised him that I would. Finally, I thanked Maria and her brother for their hospitality and said I hoped to see them again soon
+
+Mine:  
+Forrige uke dro jeg for å besøke vennen min Maria og broren hennes. Jeg kjøpte en liten gave for henne, og hun var veldig glad. Broren hennes viste meg hans nyt sykkelet, og jeg prøvde å ride det for et få minutter. Senera introducert Maris meg til to av klasskomeretene hennes, og jeg trilbrakk noe tid med snakker med dem. Jeg ga Maria noe adviser om skoleprosjectet hennes for jeg ville å hjelpe henne. Da broren hennes spurte meg med et matte problemet og jeg lovte han at jeg ville. Endlig, Jeg takket Marua og broren hennes for hospitalitet de og så jeg håpet å se dem igjen snart. 
+
+
+Forrige uke dro jeg for å besøke vennen min Maria og broren hennes. Jeg kjøpte en liten gave til henne, og hun var veldig glad. Broren hennes viste meg hans nye sykkel, og jeg prøvde å sykle på den i noen minutter. Senere introduserte Maria meg for to av klassekameratene hennes, og jeg tilbrakte litt tid med å snakke med dem. Jeg ga Maria noen råd om skoleprosjektet hennes fordi jeg ville hjelpe henne. Da broren hennes spurte meg om jeg kunne hjelpe ham med et mattestykke, lovet jeg ham at jeg ville. Til slutt takket jeg Maria og broren hennes for gjestfriheten deres og sa at jeg håpet å se dem igjen snart.
+
