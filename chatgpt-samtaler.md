@@ -244,3 +244,12 @@ I fjor, bestemte jeg å løpe et halv marathon. selv om jeg hadde aldri løpte l
 
 CORRECTED:  
 I fjor bestemte jeg meg for å løpe et halvmaraton, selv om jeg aldri hadde løpt lange distanser før. I begynnelsen var treningen veldig hard fordi kroppen min ikke var vant til å løpe, og jeg følte meg ofte trøtt og støl. Noen ganger ville jeg gi opp, men jeg minnet meg selv på målet mitt og fortsatte. Jeg fulgte en treningsplan, spiste sunt og prøvde å sove godt. På løpsdagen var jeg nervøs, men også spent. Å krysse målstreken var en av de beste følelsene jeg noen gang har hatt, og det lærte meg at besluttsomhet og tålmodighet er veldig viktig. Siden da prøver jeg å utfordre meg selv regelmessig og sette nye mål.
+
+> Yesterday, I met my friend Anna and her brother. I helped her carry her bag because it was very heavy. Her brother thanked me and told me about his new job. Later, I saw two of our classmates, and I invited them to join us for coffee. I gave Anna a small gift to show how much I appreciate her. Then her brother asked me if I could help him with a task at school. I told him that I would be happy to help.
+
+Mine:  
+I går møtet jeg vennen mi Anna og broren hennes. Jeg hjelpet henne å carry bagen henne fordi det var veldig tung. Broren hennes takket meg og fortolt om ham ny jobb. Senere, så jeg to av klasskomerene mine, og jeg invitert dem å bli med oss for a kaffe. Jeg ga anna en liten gaven for å vise hvor mye jeg setter pris på henne. Da broren hennes spurte meg om jeg kunne hjelpe ham med en tasken på skole. Jeg fortalt han at jeg ville være bli glad å hjelpe. 
+
+CORRECTED:  
+I går møtte jeg vennen min Anna og broren hennes. Jeg hjalp henne med å bære bagen hennes fordi den var veldig tung. Broren hennes takket meg og fortalte meg om hans nye jobb. Senere så jeg to av klassekameratene mine, og jeg inviterte dem til å bli med oss på en kaffe. Jeg ga Anna en liten gave for å vise hvor mye jeg setter pris på henne. Da broren hennes spurte meg om jeg kunne hjelpe ham med en oppgave på skolen, fortalte jeg ham at jeg ville være glad for å hjelpe.
+
