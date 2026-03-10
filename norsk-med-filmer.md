@@ -8,3 +8,5 @@
 4. Å, det visste jeg ikke! (end with ikke)
 
 
+ikke jeg heller (me niether)
+
