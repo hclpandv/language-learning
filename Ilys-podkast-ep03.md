@@ -1,4 +1,4 @@
-Hei og velkommen til en ny episode av *Norwegian Diaries* hvor jeg forteller om historien min med Norge. Jeg er egentlig fransk og jeg har bodd i Norge i se år. I dag er jeg norsklærer og i denne podcasten så forteller jeg litt mer om hva som skjedde, hvorfor jeg kom til Norge, hvorfor jeg føler meg norsk, selv om jeg egentlig er 100% fransk.
+Hei og velkommen til en ny episode av *Norwegian Diaries* hvor jeg forteller om historien min med Norge. Jeg er egentlig fransk og jeg har bodd i Norge i 6 år. I dag er jeg norsklærer og i denne podcasten så forteller jeg litt mer om hva som skjedde, hvorfor jeg kom til Norge, hvorfor jeg føler meg norsk, selv om jeg egentlig er 100% fransk.
 
 Og i dag skal jeg fortelle om første gang jeg kom til Norge. Det var for å besøke kjæresten min som er norsk. Og på den tiden så var jeg 17 år. I dag er jeg nesten 27, så det er 10 år siden. Det er litt rart å tenke på, fordi det føles både lenge siden og ikke så lenge siden samtidig.
 
