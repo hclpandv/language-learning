@@ -1,9 +1,3 @@
-Here is the **exact original transcript (unchanged)**, only split into smaller Markdown paragraphs for easier study and alignment with listening:
-
----
-
-## 📄 Transcript (verbatim, formatted only)
-
 Hei og velkommen til en ny episode av Norwegian Diaries hvor jeg forteller om historien min med Norge. Jeg er egentlig fransk og jeg har bodd i Norge i se år.
 I dag er jeg norsklærer og i denne podcasten så forteller jeg litt mer om hva som skjedde. Hvorfor jeg kom til Norge, hvorfor jeg føler meg norsk, selv om jeg egentlig er 100% fransk.
 
