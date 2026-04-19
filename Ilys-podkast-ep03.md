@@ -3,7 +3,7 @@ I dag er jeg norsklærer og i denne podcasten så forteller jeg litt mer om hva 
 
 Og i dag skal jeg fortelle om første gang jeg kom til Norge. Det var for å besøke kjæresten min som er norsk. Og på den tiden så var jeg 17 år. I dag er jeg nesten 27, så det er 10 år siden. Og det er litt rart å tenke på at jeg vet ikke, jeg føler at det er veldig mange år samtidig som det ikke er det.
 
-Og det er rart å tenke på at det var et punkt i livet mitt hvor jeg ikke hadde vært i Norge og hvor den norske ils ikke fantes. Men ja, i dag skal jeg fortelle om hvordan det var da jeg besøkte kjæresten min i en uke da vi gikk på videregående.
+Og det er rart å tenke på at det var et punkt i livet mitt hvor jeg ikke hadde vært i Norge og hvor den norske Ilys ikke fantes. Men ja, i dag skal jeg fortelle om hvordan det var da jeg besøkte kjæresten min i en uke da vi gikk på videregående.
 
 Og det var en av de beste ukene i hele mitt liv. På den tiden så tror jeg at det faktisk var den beste uka i hele mitt liv. Og det er fortsatt en veldig viktig uke for meg.
 
