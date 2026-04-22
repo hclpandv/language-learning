@@ -1,48 +1,98 @@
-## Response template 
-
 # 🇳🇴 A2–B1 Norsk Prøve – Answer Scaffold
 
-## 🔹 1. Direct answer (start clearly)
-Jeg ________ (answer the question directly).
+## 🧠 Choose pattern each time:
+🟢 Topic-first | 🔵 Fronted adverb | 🟡 Extra info
 
-## 🔹 2. Basic information (what/who/when)
-__________ (who/what is it about?)
+### ✍️ 1. Direct answer
+👉 (Answer the question immediately)
 
-Det er / Han / Hun / Jeg __________ (simple explanation).
+__________________________.
 
-## 🔹 3. Why (reasons)
-Jeg liker / jeg mener dette fordi:
+OR
 
-- __________  
-- __________  
-- __________  
+__________________________ (generelt / av og til / spesielt / til slutt).
 
-## 🔹 4. Personal connection (your experience)
-For meg er dette viktig fordi:
+### ✍️ 2. What / Who / Basic explanation
+👉 🟢 Pattern
 
-__________ (your experience / feeling)
+__________________________ (who/what it is).
 
-Jeg har __________ (example from your life if relevant).
-
-## 🔹 5. Example / detail (make it concrete)
-For eksempel:
-
-__________ (small story, situation, or detail)
+Det er / Jeg / Han / Hun __________________________.
 
 
-## 🔹 6. Opinion / reflection
-Jeg synes at __________.
+### ✍️ 3. Why (reasons)
+👉 Mix 🟢 + 🔵
 
-Det er viktig / interessant / bra fordi __________.
+Jeg mener dette fordi __________________________.
 
-## 🔹 7. Closing sentence (simple conclusion)
-Til slutt tror jeg at __________.
+- __________________________  
+- __________________________  
+- __________________________  
 
-# 🔥 Optional sentence starters (use if needed)
+(You can start with: generelt / spesielt / av og til)
 
-- Jeg tenker at…
-- Jeg lurer på om…
-- Generelt sett…
-- Spesielt…
-- Av og til…
-- Det kommer an på…
+
+### ✍️ 4. Personal experience
+👉 🟢 or 🟡
+
+For meg __________________________.
+
+Jeg har __________________________.
+
+OR
+
+Jeg __________________________, spesielt __________________________.
+
+---
+
+### ✍️ 5. Example / detail
+👉 🟡 Pattern
+
+For eksempel __________________________, spesielt __________________________.
+
+---
+
+### ✍️ 6. Opinion / reflection
+👉 Mix patterns freely
+
+Jeg synes at __________________________.
+
+Generelt __________________________.
+
+Av og til tenker jeg at __________________________.
+
+---
+
+### ✍️ 7. Closing sentence
+👉 Simple conclusion
+
+Til slutt __________________________.
+
+OR
+
+Generelt sett __________________________.
+
+---
+
+### ⚡ Quick pattern reminder
+
+🟢 Topic-first:
+Subject → verb → comment  
+→ Jeg jobber i Oslo.
+
+🔵 Fronted adverb:
+Adverb → verb → subject  
+→ Generelt er det dyrt.
+
+🟡 Extra info:
+Main sentence + addition  
+→ Jeg jobber i Oslo, spesielt om sommeren.
+
+---
+
+# 🎯 Exam rule (VERY IMPORTANT)
+
+✔ Don’t overthink grammar  
+✔ Fill blanks fast  
+✔ Keep sentences simple  
+✔ Focus on flow, not perfection  
