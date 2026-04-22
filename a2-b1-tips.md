@@ -7,7 +7,7 @@
 prefer definite noun phrases using possessive (familien min) or relation structures (livet i Norge):  
 
 1. Jeg bor i Norge sammen med *familien min*.
-2. *Livet i Norge* er ganske rolig.
+2. **Livet i Norge** er ganske rolig.
 3. Av og til drar jeg til *strendene i Oslo*.
 4. Jeg liker *naturen i Norge* generelt.
 5. *Døtrene mine* går på en norsk skole, og den skolen er veldig god.
