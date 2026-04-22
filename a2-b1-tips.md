@@ -26,7 +26,7 @@ Emphasize time, place, or frequency.
 Main sentence + extra detail
 
 1. Jeg liker å dra til Aker Brygge, spesielt om sommeren.
-2. 
+2. Jeg bor i Oslo, men av og til reiser jeg til India.
 
 ---
 
