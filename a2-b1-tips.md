@@ -28,7 +28,7 @@ Main sentence + extra detail
 1. Jeg liker å dra til Aker Brygge, spesielt om sommeren.
 2. Jeg bor i Oslo, men av og til reiser jeg til India.
 
-** Add sentence as leddsetning**
+**Add rore Info via conjunction**
 
 1. Og
 2. Men
