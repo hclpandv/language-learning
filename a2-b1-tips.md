@@ -2,7 +2,7 @@
 
 ## 🧠 3 patterns for sentenses to keep the grammer in controll
 
-## 🟢 Topic-first 
+### 🟢 Topic-first 
 
 prefer definite noun phrases using possessive (familien min) or relation structures (livet i Norge):  
 
