@@ -61,7 +61,6 @@ Generelt __________________________.
 
 Av og til tenker jeg at __________________________.
 
----
 
 ### ✍️ 7. Closing sentence
 👉 Simple conclusion
