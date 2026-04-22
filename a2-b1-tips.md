@@ -17,8 +17,8 @@ prefer definite noun phrases using possessive (familien min) or relation structu
 
 Emphasize time, place, or frequency.
 
-1. **Av og til** tenker jeg at foreldrene mine er ensome i India.
-2. **Etter job** leker jeg med barne mine.
+1. **Av og til** tenker jeg at foreldrene mine er ensomme i India.
+2. **Etter jobb** leker jeg med barna mine.
 3. **Spesielt om sommeren** liker jeg å være ute.
 
 **🟡 Extra info at the end (natural flow)**
