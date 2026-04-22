@@ -28,9 +28,10 @@ Main sentence + extra detail
 1. Jeg liker å dra til Aker Brygge, spesielt om sommeren.
 2. Jeg bor i Oslo, men av og til reiser jeg til India.
 
-**Add rore Info via conjunction**
+**🔗 Add more info (conjunctions)**
 
-1. Og
-2. Men
-3. Fordi
-4. 
+- og (and)  
+- men (but)  
+- fordi (because)  
+- så (so)  
+- derfor (therefore)
