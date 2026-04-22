@@ -1,97 +1,43 @@
-# 🇳🇴 A2–B1 Norsk Prøve – Answer Scaffold
+# 🇳🇴 Norskprøve A2–B1 Cheat Sheet
 
-## 🧠 Choose pattern each time:
-🟢 Topic-first | 🔵 Fronted adverb | 🟡 Extra info
+## 🧠 3 patterns (use ALL answers)
+🟢 Topic-first → Jeg jobber i Oslo.  
+🔵 Fronted adverb → Generelt er det dyrt.  
+🟡 Extra info → Jeg drar til strendene, spesielt om sommeren.
 
-### ✍️ 1. Direct answer
-👉 (Answer the question immediately)
+## ✍️ Answer structure (always same)
+1. Direct answer  
+2. Why (2–3 reasons)  
+3. Example / experience  
+4. Opinion  
+5. Conclusion
 
-__________________________.
+## ⚡ Sentence starters
 
-OR
+### 🟢 Topic-first
+- Jeg …
+- Familien min …
+- Livet i …
 
-__________________________ (generelt / av og til / spesielt / til slutt).
+### 🔵 Fronted adverb
+- Generelt …
+- Av og til …
+- Spesielt …
+- Til slutt …
 
-### ✍️ 2. What / Who / Basic explanation
-👉 🟢 Pattern
-
-__________________________ (who/what it is).
-
-Det er / Jeg / Han / Hun __________________________.
-
-
-### ✍️ 3. Why (reasons)
-👉 Mix 🟢 + 🔵
-
-Jeg mener dette fordi __________________________.
-
-- __________________________  
-- __________________________  
-- __________________________  
-
-(You can start with: generelt / spesielt / av og til)
-
-
-### ✍️ 4. Personal experience
-👉 🟢 or 🟡
-
-For meg __________________________.
-
-Jeg har __________________________.
-
-OR
-
-Jeg __________________________, spesielt __________________________.
+### 🟡 Extra info
+- spesielt om …
+- fordi …
+- for eksempel …
 
 ---
 
-### ✍️ 5. Example / detail
-👉 🟡 Pattern
-
-For eksempel __________________________, spesielt __________________________.
-
----
-
-### ✍️ 6. Opinion / reflection
-👉 Mix patterns freely
-
-Jeg synes at __________________________.
-
-Generelt __________________________.
-
-Av og til tenker jeg at __________________________.
-
-
-### ✍️ 7. Closing sentence
-👉 Simple conclusion
-
-Til slutt __________________________.
-
-OR
-
-Generelt sett __________________________.
-
----
-
-### ⚡ Quick pattern reminder
-
-🟢 Topic-first:
-Subject → verb → comment  
-→ Jeg jobber i Oslo.
-
-🔵 Fronted adverb:
-Adverb → verb → subject  
-→ Generelt er det dyrt.
-
-🟡 Extra info:
-Main sentence + addition  
-→ Jeg jobber i Oslo, spesielt om sommeren.
-
----
-
-# 🎯 Exam rule (VERY IMPORTANT)
-
-✔ Don’t overthink grammar  
-✔ Fill blanks fast  
+## 🎯 Exam rule
 ✔ Keep sentences simple  
-✔ Focus on flow, not perfection  
+✔ Don’t overthink grammar  
+✔ Just choose pattern and speak  
+
+---
+
+## 🔥 Golden formula
+Answer → Reasons → Example → Opinion → End
